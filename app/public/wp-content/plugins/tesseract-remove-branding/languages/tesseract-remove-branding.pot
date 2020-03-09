@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tesseract Remove Branding 1.0\n"
+"POT-Creation-Date: 2015-04-02 13:59+0100\n"
+"PO-Revision-Date: 2015-04-02 14:00+0100\n"
+"Last-Translator: Gabor Lippert <gabor.lippert@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-trb-customizer.php:69
+msgid "Footer Left Block Content"
+msgstr ""
+
+#: includes/class-trb-customizer.php:72
+msgid "Footer Right Block Content"
+msgstr ""
+
+#: includes/class-trb-customizer.php:90
+msgid ""
+"Choose the content to be displayed in the right block of the footer area"
+msgstr ""
+
+#: includes/class-trb-customizer.php:112
+msgid "Nothing"
+msgstr ""
+
+#: includes/class-trb-customizer.php:113
+msgid "Buttons"
+msgstr ""
+
+#: includes/class-trb-customizer.php:114
+msgid "Social Icons"
+msgstr ""
+
+#: includes/class-trb-customizer.php:115
+msgid "Search Bar"
+msgstr ""
+
+#: includes/class-trb-customizer.php:134
+msgid "Button code"
+msgstr ""
+
+#: tesseract-remove-branding.php:51
+msgid "Facebook"
+msgstr ""
+
+#: tesseract-remove-branding.php:52
+msgid "Twitter"
+msgstr ""
+
+#: tesseract-remove-branding.php:53
+msgid "Google Plus"
+msgstr ""
+
+#: tesseract-remove-branding.php:54
+msgid "LinkedIn"
+msgstr ""
+
+#: tesseract-remove-branding.php:55
+msgid "YouTube"
+msgstr ""
+
+#: tesseract-remove-branding.php:56
+msgid "Vimeo"
+msgstr ""
+
+#: tesseract-remove-branding.php:57
+msgid "Tumblr"
+msgstr ""
+
+#: tesseract-remove-branding.php:58
+msgid "FlickR"
+msgstr ""
+
+#: tesseract-remove-branding.php:59
+msgid "Pinterest"
+msgstr ""
+
+#: tesseract-remove-branding.php:60
+msgid "Dribbble"
+msgstr ""
+
+#: tesseract-remove-branding.php:69
+msgid "Follow Us on "
+msgstr ""
+
+#: tesseract-remove-branding.php:275
+#, php-format
+msgid "Tesseract Remove Branding depends on the %s to work!"
+msgstr ""
+
+#: tesseract-remove-branding.php:275
+msgid "Tesseract theme"
+msgstr ""

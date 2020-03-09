@@ -1,0 +1,1699 @@
+"Project-Id-Version: Beaver Builder Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-31 09:37-0700\n"
+"PO-Revision-Date: 2016-03-04 10:27:30+0000\n"
+"Last-Translator: Alessandro Curci <hantarex@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:9
+#@ fl-automator
+msgid "Sorry! That page doesn't seem to exist."
+msgstr "Mi dispiace! Quella pagina non sembra esistere."
+
+#: classes/class-fl-customizer-control.php:176
+#@ fl-automator
+msgid "Please install and activate the \"Customizer Export/Import\" plugin to proceed."
+msgstr "Si prega di installare e attivare il plugin \"Customizer Export/Import\" per procedere."
+
+#: classes/class-fl-customizer-control.php:177
+#@ fl-automator
+msgctxt "...a plugin."
+msgid "Install &amp; Activate"
+msgstr "Installa e attiva"
+
+#: classes/class-fl-customizer.php:355
+#@ fl-automator
+msgctxt "Customizer section title. Theme design/style presets."
+msgid "Presets"
+msgstr "Preimpostazioni"
+
+#: classes/class-fl-customizer.php:375
+#@ fl-automator
+msgid "Start by selecting a preset for your theme."
+msgstr "Inizia selezionando una preimpostazione per il tuo tema."
+
+#: classes/class-fl-customizer.php:479
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Export/Import"
+msgstr "Esporta/Importa"
+
+#: classes/class-fl-theme.php:104
+#@ fl-automator
+msgid "Top Bar Menu"
+msgstr "Menu barra superiore"
+
+#: classes/class-fl-theme.php:105
+#@ fl-automator
+msgid "Header Menu"
+msgstr "Menu testata"
+
+#: classes/class-fl-theme.php:106
+#@ fl-automator
+msgid "Footer Menu"
+msgstr "Menu piè di pagina"
+
+#: classes/class-fl-theme.php:171
+#@ fl-automator
+msgid "Primary Sidebar"
+msgstr "Sidebar primaria"
+
+#: classes/class-fl-theme.php:194
+#@ fl-automator
+msgid "WooCommerce Sidebar"
+msgstr "Sidebar WooCommerce"
+
+#: classes/class-fl-theme.php:399
+#@ fl-automator
+msgid "Choose Menu"
+msgstr "Scegliere il Menu"
+
+#: classes/class-fl-theme.php:399
+#@ fl-automator
+msgid "Home"
+msgstr "Home"
+
+#: classes/class-fl-theme.php:649
+#@ fl-automator
+msgctxt "Mobile navigation toggle button text."
+msgid "Menu"
+msgstr "Menu"
+
+#: classes/class-fl-theme.php:974
+#, php-format
+#@ fl-automator
+msgctxt "Archive title: tag."
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Articoli con tag &#8216;%s&#8217;"
+
+#: classes/class-fl-theme.php:978
+#, php-format
+#@ fl-automator
+msgctxt "Archive title: day."
+msgid "Archive for %s"
+msgstr "Archivio per %s"
+
+#: classes/class-fl-theme.php:982
+#, php-format
+#@ fl-automator
+msgctxt "Archive title: month."
+msgid "Archive for %s"
+msgstr "Archivio per %s"
+
+#: classes/class-fl-theme.php:986
+#, php-format
+#@ fl-automator
+msgctxt "Archive title: year."
+msgid "Archive for %s"
+msgstr "Archivio per %s"
+
+#: classes/class-fl-theme.php:990
+#, php-format
+#@ fl-automator
+msgctxt "Archive title: author."
+msgid "Posts by %s"
+msgstr "Posts di %s"
+
+#: classes/class-fl-theme.php:994
+#, php-format
+#@ fl-automator
+msgctxt "Search results title."
+msgid "Search results for: %s"
+msgstr "Risultati della ricerca per: %s"
+
+#: classes/class-fl-theme.php:998
+#@ fl-automator
+msgctxt "Archive title: paged archive."
+msgid "Archives"
+msgstr "Archivi"
+
+#: classes/class-fl-theme.php:1027
+#@ fl-automator
+msgid "&laquo; Newer Posts"
+msgstr "&laquo; Post più recenti"
+
+#: classes/class-fl-theme.php:1028
+#@ fl-automator
+msgid "Older Posts &raquo;"
+msgstr "Post più vecchi &raquo;"
+
+#: classes/class-fl-theme.php:1092
+#, php-format
+#@ fl-automator
+msgctxt "Post meta info: author."
+msgid "By %s"
+msgstr "Di %s"
+
+#: classes/class-fl-theme.php:1168
+#, php-format
+#@ fl-automator
+msgctxt "Post meta info: category."
+msgid "Posted in %s"
+msgstr "Pubblicato in %s"
+
+#: classes/class-fl-theme.php:1175
+#, php-format
+#@ fl-automator
+msgctxt "Post meta info: tags."
+msgid "Tagged %s"
+msgstr "Tag %s"
+
+#: classes/class-fl-theme.php:1184
+#@ fl-automator
+msgctxt "Comments popup link title."
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#: classes/class-fl-theme.php:1184
+#@ fl-automator
+msgid "1 Comment"
+msgstr "1 commento"
+
+#: classes/class-fl-theme.php:1184
+#, c-format
+#@ fl-automator
+msgctxt "Comments popup link title."
+msgid "1 Comment"
+msgid_plural "% Comments"
+msgstr[0] "1 commento"
+msgstr[1] "% commenti"
+
+#: comments.php:21
+#, php-format
+#@ fl-automator
+msgctxt "Comments list title."
+msgid "1 Comment"
+msgid_plural "%d Comments"
+msgstr[0] "1 commento"
+msgstr[1] "%d commenti"
+
+#: comments.php:27
+#@ fl-automator
+msgid "No Comments"
+msgstr "Nessun commento"
+
+#: comments.php:50
+#@ fl-automator
+msgctxt "Respond form title."
+msgid "Leave a Comment"
+msgstr "Lascia un commento"
+
+#: comments.php:57
+#, php-format
+#@ fl-automator
+msgctxt "Please, keep the HTML tags."
+msgid "You must be <a%s>logged in</a> to post a comment."
+msgstr "Devi essere <a%s>connesso</a> per inviare un commento."
+
+#: comments.php:69
+#, php-format
+#@ fl-automator
+msgid "Logged in as %s."
+msgstr "Loggato come %s."
+
+#: comments.php:69
+#@ fl-automator
+msgid "Log out of this account"
+msgstr "Disconnettersi dall'account"
+
+#: comments.php:69
+#@ fl-automator
+msgid "Log out &raquo;"
+msgstr "Logout &raquo;"
+
+#: comments.php:73
+#@ fl-automator
+msgctxt "Comment form label: comment author name."
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:73 comments.php:77
+#@ fl-automator
+msgid " (required)"
+msgstr " (obbligatorio)"
+
+#: comments.php:77
+#@ fl-automator
+msgctxt "Comment form label: comment author email."
+msgid "Email (will not be published)"
+msgstr "E-mail (non sarà pubblicata)"
+
+#: comments.php:81
+#@ fl-automator
+msgctxt "Comment form label: comment author website."
+msgid "Website"
+msgstr "Sito Web"
+
+#: comments.php:87
+#@ fl-automator
+msgctxt "Comment form label: comment content."
+msgid "Comment"
+msgstr "Commento"
+
+#: comments.php:91
+#@ fl-automator
+msgid "Submit Comment"
+msgstr "Invia commento"
+
+#: content-no-results.php:4
+#@ fl-automator
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#: content-no-results.php:10
+#@ fl-automator
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Siamo spiacenti, ma non ci sono corrispondenze con i termini di ricerca. Si prega di riprovare con parole chiave diverse."
+
+#: content-no-results.php:15
+#@ fl-automator
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Sembra che non riusciamo a trovare quello che stai cercando. Forse una ricerca può essere d'aiuto."
+
+#: content-page.php:6
+#@ fl-automator
+msgctxt "Edit page link text."
+msgid "Edit"
+msgstr "Modifica"
+
+#: content-page.php:15 content-single.php:38
+#@ fl-automator
+msgctxt "Text before page links on paginated post."
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: content-single.php:11 content.php:13
+#@ fl-automator
+msgctxt "Edit post link text."
+msgid "Edit"
+msgstr "Modifica"
+
+#. translators: 1: comment author name, 2: date, 3: time
+#: includes/comment.php:10
+#, php-format
+#@ fl-automator
+msgid "<span class=\"comment-author-link\">%1$s</span> <span class=\"comment-date\">on %2$s at %3$s</span>"
+msgstr "<span class=\"comment-author-link\">%1$s</span> <span class=\"comment-date\">in %2$s il %3$s</span>"
+
+#: includes/comment.php:17
+#@ fl-automator
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: includes/comment.php:20
+#@ fl-automator
+msgctxt "Comment edit link text."
+msgid "(Edit)"
+msgstr "(Modifica)"
+
+#: includes/comment.php:26
+#@ fl-automator
+msgid "Reply"
+msgstr "Rispondi"
+
+#: includes/customizer-panel-code.php:5
+#@ fl-automator
+msgctxt "Customizer panel title."
+msgid "Code"
+msgstr "Codice"
+
+#: includes/customizer-panel-code.php:10
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "CSS Code"
+msgstr "Codice CSS"
+
+#: includes/customizer-panel-code.php:19
+#@ fl-automator
+msgid "CSS entered in the box below will be rendered within &lt;style&gt; tags."
+msgstr "Il CSS immesso nella casella sottostante sarà inserito all'interno del tag &lt;style&gt;."
+
+#: includes/customizer-panel-code.php:29
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "JavaScript Code"
+msgstr "Codice JavaScript"
+
+#: includes/customizer-panel-code.php:38
+#@ fl-automator
+msgid "JavaScript entered in the box below will be rendered within &lt;script&gt; tags."
+msgstr "Il JavaScript inserito nella casella sottostante sarà inserito all'interno del tag &lt;script&gt;."
+
+#: includes/customizer-panel-code.php:48
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Head Code"
+msgstr "Codice head"
+
+#: includes/customizer-panel-code.php:57
+#@ fl-automator
+msgid "Code entered in the box below will be rendered within the page &lt;head&gt; tag."
+msgstr "Codice inserito nel box sottostante sarà inserito all'interno del tag &lt;head&gt; della pagina."
+
+#: includes/customizer-panel-code.php:67
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Header Code"
+msgstr "Codice intestazione"
+
+#: includes/customizer-panel-code.php:76
+#@ fl-automator
+msgid "Code entered in the box below will be rendered directly after the opening &lt;body&gt; tag."
+msgstr "Il codice inserito nel box sottostante sarà inserito subito dopo il tag di apertura &lt;body&gt;."
+
+#: includes/customizer-panel-code.php:86
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Footer Code"
+msgstr "Codice footer"
+
+#: includes/customizer-panel-code.php:95
+#@ fl-automator
+msgid "Code entered in the box below will be rendered directly before the closing &lt;body&gt; tag."
+msgstr "Codice inserito nel box sottostante sarà inserito direttamente prima del tag di chiusura &lt;body&gt;."
+
+#: includes/customizer-panel-content.php:5
+#@ fl-automator
+msgctxt "Customizer panel title."
+msgid "Content"
+msgstr "Contenuto"
+
+#: includes/customizer-panel-content.php:10
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Content Background"
+msgstr "Sfondo del contenuto "
+
+#: includes/customizer-panel-content.php:20
+#: includes/customizer-panel-footer.php:44
+#: includes/customizer-panel-footer.php:302
+#: includes/customizer-panel-general.php:80
+#: includes/customizer-panel-header.php:124
+#: includes/customizer-panel-header.php:373
+#: includes/customizer-panel-header.php:680
+#@ fl-automator
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: includes/customizer-panel-content.php:31
+#: includes/customizer-panel-footer.php:71
+#: includes/customizer-panel-footer.php:329
+#: includes/customizer-panel-general.php:92
+#: includes/customizer-panel-header.php:151
+#: includes/customizer-panel-header.php:400
+#: includes/customizer-panel-header.php:707
+#@ fl-automator
+msgid "Background Image"
+msgstr "Immagine di sfondo"
+
+#: includes/customizer-panel-content.php:43
+#: includes/customizer-panel-footer.php:83
+#: includes/customizer-panel-footer.php:341
+#: includes/customizer-panel-general.php:104
+#: includes/customizer-panel-header.php:163
+#: includes/customizer-panel-header.php:412
+#: includes/customizer-panel-header.php:719
+#@ fl-automator
+msgid "Background Repeat"
+msgstr "Ripetizione sfondo"
+
+#: includes/customizer-panel-content.php:46
+#: includes/customizer-panel-content.php:106
+#: includes/customizer-panel-footer.php:86
+#: includes/customizer-panel-footer.php:146
+#: includes/customizer-panel-footer.php:203
+#: includes/customizer-panel-footer.php:344
+#: includes/customizer-panel-footer.php:404
+#: includes/customizer-panel-general.php:107
+#: includes/customizer-panel-general.php:167
+#: includes/customizer-panel-header.php:23
+#: includes/customizer-panel-header.php:166
+#: includes/customizer-panel-header.php:226
+#: includes/customizer-panel-header.php:283
+#: includes/customizer-panel-header.php:339
+#: includes/customizer-panel-header.php:415
+#: includes/customizer-panel-header.php:475
+#: includes/customizer-panel-header.php:722
+#: includes/customizer-panel-header.php:782
+#@ fl-automator
+msgid "None"
+msgstr "Nessuno"
+
+#: includes/customizer-panel-content.php:47
+#: includes/customizer-panel-footer.php:87
+#: includes/customizer-panel-footer.php:345
+#: includes/customizer-panel-general.php:108
+#: includes/customizer-panel-header.php:167
+#: includes/customizer-panel-header.php:416
+#: includes/customizer-panel-header.php:723
+#@ fl-automator
+msgid "Tile"
+msgstr "Tassello"
+
+#: includes/customizer-panel-content.php:48
+#: includes/customizer-panel-footer.php:88
+#: includes/customizer-panel-footer.php:346
+#: includes/customizer-panel-general.php:109
+#: includes/customizer-panel-header.php:168
+#: includes/customizer-panel-header.php:417
+#: includes/customizer-panel-header.php:724
+#@ fl-automator
+msgid "Horizontal"
+msgstr "Orizzontale"
+
+#: includes/customizer-panel-content.php:49
+#: includes/customizer-panel-footer.php:89
+#: includes/customizer-panel-footer.php:347
+#: includes/customizer-panel-general.php:110
+#: includes/customizer-panel-header.php:169
+#: includes/customizer-panel-header.php:418
+#: includes/customizer-panel-header.php:725
+#@ fl-automator
+msgid "Vertical"
+msgstr "Verticale"
+
+#: includes/customizer-panel-content.php:62
+#: includes/customizer-panel-footer.php:102
+#: includes/customizer-panel-footer.php:360
+#: includes/customizer-panel-general.php:123
+#: includes/customizer-panel-header.php:182
+#: includes/customizer-panel-header.php:431
+#: includes/customizer-panel-header.php:738
+#@ fl-automator
+msgid "Background Position"
+msgstr "Posizione sfondo"
+
+#: includes/customizer-panel-content.php:65
+#: includes/customizer-panel-footer.php:105
+#: includes/customizer-panel-footer.php:363
+#: includes/customizer-panel-general.php:126
+#: includes/customizer-panel-header.php:185
+#: includes/customizer-panel-header.php:434
+#: includes/customizer-panel-header.php:741
+#@ fl-automator
+msgid "Left Top"
+msgstr "Sinistra Alto"
+
+#: includes/customizer-panel-content.php:66
+#: includes/customizer-panel-footer.php:106
+#: includes/customizer-panel-footer.php:364
+#: includes/customizer-panel-general.php:127
+#: includes/customizer-panel-header.php:186
+#: includes/customizer-panel-header.php:435
+#: includes/customizer-panel-header.php:742
+#@ fl-automator
+msgid "Left Center"
+msgstr "Sinistra Centro"
+
+#: includes/customizer-panel-content.php:67
+#: includes/customizer-panel-footer.php:107
+#: includes/customizer-panel-footer.php:365
+#: includes/customizer-panel-general.php:128
+#: includes/customizer-panel-header.php:187
+#: includes/customizer-panel-header.php:436
+#: includes/customizer-panel-header.php:743
+#@ fl-automator
+msgid "Left Bottom"
+msgstr "Sinistra Basso"
+
+#: includes/customizer-panel-content.php:68
+#: includes/customizer-panel-footer.php:108
+#: includes/customizer-panel-footer.php:366
+#: includes/customizer-panel-general.php:129
+#: includes/customizer-panel-header.php:188
+#: includes/customizer-panel-header.php:437
+#: includes/customizer-panel-header.php:744
+#@ fl-automator
+msgid "Right Top"
+msgstr "Destra Alto"
+
+#: includes/customizer-panel-content.php:69
+#: includes/customizer-panel-footer.php:109
+#: includes/customizer-panel-footer.php:367
+#: includes/customizer-panel-general.php:130
+#: includes/customizer-panel-header.php:189
+#: includes/customizer-panel-header.php:438
+#: includes/customizer-panel-header.php:745
+#@ fl-automator
+msgid "Right Center"
+msgstr "Destra Centro"
+
+#: includes/customizer-panel-content.php:70
+#: includes/customizer-panel-footer.php:110
+#: includes/customizer-panel-footer.php:368
+#: includes/customizer-panel-general.php:131
+#: includes/customizer-panel-header.php:190
+#: includes/customizer-panel-header.php:439
+#: includes/customizer-panel-header.php:746
+#@ fl-automator
+msgid "Right Bottom"
+msgstr "Destra Basso"
+
+#: includes/customizer-panel-content.php:71
+#: includes/customizer-panel-footer.php:111
+#: includes/customizer-panel-footer.php:369
+#: includes/customizer-panel-general.php:132
+#: includes/customizer-panel-header.php:191
+#: includes/customizer-panel-header.php:440
+#: includes/customizer-panel-header.php:747
+#@ fl-automator
+msgid "Center Top"
+msgstr "Centro Alto"
+
+#: includes/customizer-panel-content.php:72
+#: includes/customizer-panel-footer.php:112
+#: includes/customizer-panel-footer.php:370
+#: includes/customizer-panel-general.php:133
+#: includes/customizer-panel-header.php:192
+#: includes/customizer-panel-header.php:441
+#: includes/customizer-panel-header.php:748
+#@ fl-automator
+msgid "Center"
+msgstr "Centro"
+
+#: includes/customizer-panel-content.php:73
+#: includes/customizer-panel-footer.php:113
+#: includes/customizer-panel-footer.php:371
+#: includes/customizer-panel-general.php:134
+#: includes/customizer-panel-header.php:193
+#: includes/customizer-panel-header.php:442
+#: includes/customizer-panel-header.php:749
+#@ fl-automator
+msgid "Center Bottom"
+msgstr "Centro Basso"
+
+#: includes/customizer-panel-content.php:86
+#: includes/customizer-panel-footer.php:126
+#: includes/customizer-panel-footer.php:384
+#: includes/customizer-panel-general.php:147
+#: includes/customizer-panel-header.php:206
+#: includes/customizer-panel-header.php:455
+#: includes/customizer-panel-header.php:762
+#@ fl-automator
+msgid "Background Attachment"
+msgstr "Attaccamento sfondo "
+
+#: includes/customizer-panel-content.php:89
+#: includes/customizer-panel-footer.php:129
+#: includes/customizer-panel-footer.php:387
+#: includes/customizer-panel-general.php:150
+#: includes/customizer-panel-header.php:209
+#: includes/customizer-panel-header.php:458
+#: includes/customizer-panel-header.php:765
+#@ fl-automator
+msgid "Scroll"
+msgstr "Scorrimento"
+
+#: includes/customizer-panel-content.php:90
+#: includes/customizer-panel-footer.php:130
+#: includes/customizer-panel-footer.php:388
+#: includes/customizer-panel-general.php:151
+#: includes/customizer-panel-header.php:210
+#: includes/customizer-panel-header.php:459
+#: includes/customizer-panel-header.php:766
+#@ fl-automator
+msgid "Fixed"
+msgstr "Fisso"
+
+#: includes/customizer-panel-content.php:103
+#: includes/customizer-panel-footer.php:143
+#: includes/customizer-panel-footer.php:401
+#: includes/customizer-panel-general.php:164
+#: includes/customizer-panel-header.php:223
+#: includes/customizer-panel-header.php:472
+#: includes/customizer-panel-header.php:779
+#@ fl-automator
+msgid "Background Scale"
+msgstr "Ridimensionamento sfondo"
+
+#: includes/customizer-panel-content.php:107
+#: includes/customizer-panel-footer.php:147
+#: includes/customizer-panel-footer.php:405
+#: includes/customizer-panel-general.php:168
+#: includes/customizer-panel-header.php:227
+#: includes/customizer-panel-header.php:476
+#: includes/customizer-panel-header.php:783
+#@ fl-automator
+msgid "Fit"
+msgstr "Adatta"
+
+#: includes/customizer-panel-content.php:108
+#: includes/customizer-panel-footer.php:148
+#: includes/customizer-panel-footer.php:406
+#: includes/customizer-panel-general.php:169
+#: includes/customizer-panel-header.php:228
+#: includes/customizer-panel-header.php:477
+#: includes/customizer-panel-header.php:784
+#@ fl-automator
+msgid "Fill"
+msgstr "Riempi"
+
+#: includes/customizer-panel-content.php:117
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Blog Layout"
+msgstr "Layout del Blog"
+
+#: includes/customizer-panel-content.php:127
+#: includes/customizer-panel-content.php:349
+#@ fl-automator
+msgid "Sidebar Position"
+msgstr "Posizione sidebar"
+
+#: includes/customizer-panel-content.php:130
+#: includes/customizer-panel-content.php:353
+#@ fl-automator
+msgid "Sidebar Right"
+msgstr "Sidebar destra"
+
+#: includes/customizer-panel-content.php:131
+#: includes/customizer-panel-content.php:354
+#@ fl-automator
+msgid "Sidebar Left"
+msgstr "Sidebar sinistra"
+
+#: includes/customizer-panel-content.php:132
+#: includes/customizer-panel-content.php:355
+#@ fl-automator
+msgid "No Sidebar"
+msgstr "Nessuna sidebar"
+
+#: includes/customizer-panel-content.php:144
+#: includes/customizer-panel-content.php:367
+#@ fl-automator
+msgid "Sidebar Size"
+msgstr "Dimensione sidebar"
+
+#: includes/customizer-panel-content.php:147
+#: includes/customizer-panel-content.php:370
+#@ fl-automator
+msgctxt "Sidebar size."
+msgid "Large"
+msgstr "Grande"
+
+#: includes/customizer-panel-content.php:148
+#: includes/customizer-panel-content.php:371
+#@ fl-automator
+msgctxt "Sidebar size."
+msgid "Medium"
+msgstr "Media"
+
+#: includes/customizer-panel-content.php:149
+#: includes/customizer-panel-content.php:372
+#@ fl-automator
+msgctxt "Sidebar size."
+msgid "Small"
+msgstr "Piccola"
+
+#: includes/customizer-panel-content.php:161
+#: includes/customizer-panel-content.php:384
+#@ fl-automator
+msgid "Sidebar Display"
+msgstr "Visualizzazione sidebar"
+
+#: includes/customizer-panel-content.php:164
+#: includes/customizer-panel-content.php:387
+#@ fl-automator
+msgid "Desktop Only"
+msgstr "Solo Desktop"
+
+#: includes/customizer-panel-content.php:165
+#: includes/customizer-panel-content.php:388
+#@ fl-automator
+msgid "Always"
+msgstr "Sempre"
+
+#: includes/customizer-panel-content.php:185
+#@ fl-automator
+msgid "Post Author"
+msgstr "Autore del post"
+
+#: includes/customizer-panel-content.php:188
+#: includes/customizer-panel-content.php:204
+#: includes/customizer-panel-content.php:297
+#: includes/customizer-panel-content.php:313
+#: includes/customizer-panel-content.php:329
+#: includes/customizer-panel-content.php:412
+#@ fl-automator
+msgid "Visible"
+msgstr "Visibile"
+
+#: includes/customizer-panel-content.php:189
+#: includes/customizer-panel-content.php:205
+#: includes/customizer-panel-content.php:256
+#: includes/customizer-panel-content.php:280
+#: includes/customizer-panel-content.php:298
+#: includes/customizer-panel-content.php:314
+#: includes/customizer-panel-content.php:330
+#: includes/customizer-panel-content.php:413
+#@ fl-automator
+msgid "Hidden"
+msgstr "Nascosto"
+
+#: includes/customizer-panel-content.php:201
+#@ fl-automator
+msgid "Post Date"
+msgstr "Data del post"
+
+#: includes/customizer-panel-content.php:214
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Archive Layout"
+msgstr "Layout archivio "
+
+#: includes/customizer-panel-content.php:224
+#@ fl-automator
+msgid "Show Full Text"
+msgstr "Mostra il testo completo"
+
+#: includes/customizer-panel-content.php:225
+#@ fl-automator
+msgid "Whether or not to show the full post. If no, the excerpt will be shown."
+msgstr "Se mostrare o no l'intero post. Se no, verrà mostrato il riassunto."
+
+#: includes/customizer-panel-content.php:228
+#@ fl-automator
+msgid "Yes"
+msgstr "Sì"
+
+#: includes/customizer-panel-content.php:229
+#@ fl-automator
+msgid "No"
+msgstr "No"
+
+#: includes/customizer-panel-content.php:237
+#@ fl-automator
+msgid "Read More"
+msgstr "Leggi tutto"
+
+#: includes/customizer-panel-content.php:241
+#@ fl-automator
+msgid "\"Read More\" Text"
+msgstr "Testo \"Leggi tutto\""
+
+#: includes/customizer-panel-content.php:253
+#: includes/customizer-panel-content.php:277
+#@ fl-automator
+msgid "Featured Image"
+msgstr "Immagine in evidenza"
+
+#: includes/customizer-panel-content.php:257
+#@ fl-automator
+msgid "Above Posts"
+msgstr "Sopra al post"
+
+#: includes/customizer-panel-content.php:258
+#@ fl-automator
+msgid "Beside Posts"
+msgstr "Accanto al post"
+
+#: includes/customizer-panel-content.php:267
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Post Layout"
+msgstr "Layout dei post"
+
+#: includes/customizer-panel-content.php:281
+#@ fl-automator
+msgid "Above Post"
+msgstr "Sopra il Post"
+
+#: includes/customizer-panel-content.php:282
+#@ fl-automator
+msgid "Beside Post"
+msgstr "Accanto al Post"
+
+#: includes/customizer-panel-content.php:294
+#@ fl-automator
+msgid "Post Categories"
+msgstr "Categorie dei Post"
+
+#: includes/customizer-panel-content.php:310
+#@ fl-automator
+msgid "Post Tags"
+msgstr "Tag dei Post"
+
+#: includes/customizer-panel-content.php:326
+#@ fl-automator
+msgid "Prev/Next Post Links"
+msgstr "Collegamenti post precedente/successivo"
+
+#: includes/customizer-panel-content.php:339
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "WooCommerce Layout"
+msgstr "Layout WooCommerce"
+
+#: includes/customizer-panel-content.php:350
+#@ fl-automator
+msgid "The location of the WooCommerce sidebar."
+msgstr "La posizione della sidebar WooCommerce."
+
+#: includes/customizer-panel-content.php:408
+#@ fl-automator
+msgid "\"Add to Cart\" Button"
+msgstr "Pulsante \"Aggiungi al carrello\""
+
+#: includes/customizer-panel-content.php:409
+#@ fl-automator
+msgid "Show the \"Add to Cart\" button on product category pages?"
+msgstr "Visualizza il pulsante \"Aggiungi al carrello\" nelle pagine di categoria dei prodotti?"
+
+#: includes/customizer-panel-content.php:422
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/customizer-panel-content.php:432
+#@ fl-automator
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/customizer-panel-content.php:435
+#@ fl-automator
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: includes/customizer-panel-content.php:436
+#: includes/customizer-panel-footer.php:23
+#@ fl-automator
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: includes/customizer-panel-footer.php:5
+#@ fl-automator
+msgctxt "Customizer panel title."
+msgid "Footer"
+msgstr "Footer"
+
+#: includes/customizer-panel-footer.php:10
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Footer Widgets Layout"
+msgstr "Layout widgets del footer"
+
+#: includes/customizer-panel-footer.php:20
+#@ fl-automator
+msgid "Footer Widgets Display"
+msgstr "Visualizzazione widget nel footer"
+
+#: includes/customizer-panel-footer.php:24
+#@ fl-automator
+msgid "All Pages"
+msgstr "Tutte le pagine"
+
+#: includes/customizer-panel-footer.php:25
+#@ fl-automator
+msgid "Homepage Only"
+msgstr "Solo homepage"
+
+#: includes/customizer-panel-footer.php:34
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Footer Widgets Style"
+msgstr "Stile widgets footer"
+
+#: includes/customizer-panel-footer.php:55
+#: includes/customizer-panel-footer.php:313
+#: includes/customizer-panel-header.php:135
+#: includes/customizer-panel-header.php:384
+#: includes/customizer-panel-header.php:691
+#@ fl-automator
+msgid "Background Gradient"
+msgstr "Gradiente di sfondo"
+
+#: includes/customizer-panel-footer.php:160
+#: includes/customizer-panel-footer.php:418
+#: includes/customizer-panel-header.php:240
+#: includes/customizer-panel-header.php:489
+#@ fl-automator
+msgid "Text Color"
+msgstr "Colore del testo"
+
+#: includes/customizer-panel-footer.php:171
+#: includes/customizer-panel-footer.php:429
+#: includes/customizer-panel-header.php:251
+#: includes/customizer-panel-header.php:500
+#: includes/customizer-panel-header.php:796
+#@ fl-automator
+msgid "Link Color"
+msgstr "Colore dei collegamenti"
+
+#: includes/customizer-panel-footer.php:182
+#: includes/customizer-panel-footer.php:440
+#: includes/customizer-panel-general.php:200
+#: includes/customizer-panel-header.php:262
+#: includes/customizer-panel-header.php:511
+#: includes/customizer-panel-header.php:807
+#@ fl-automator
+msgid "Hover Color"
+msgstr "Colore hover"
+
+#: includes/customizer-panel-footer.php:190
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Footer Layout"
+msgstr "Layout del footer"
+
+#: includes/customizer-panel-footer.php:200
+#: includes/customizer-panel-header.php:20
+#: includes/customizer-panel-header.php:280
+#@ fl-automator
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/customizer-panel-footer.php:204
+#: includes/customizer-panel-header.php:24
+#@ fl-automator
+msgid "1 Column"
+msgstr "1 colonna"
+
+#: includes/customizer-panel-footer.php:205
+#: includes/customizer-panel-header.php:25
+#@ fl-automator
+msgid "2 Columns"
+msgstr "2 colonne"
+
+#: includes/customizer-panel-footer.php:225
+#: includes/customizer-panel-footer.php:264
+#: includes/customizer-panel-header.php:45
+#: includes/customizer-panel-header.php:85
+#, php-format
+#@ fl-automator
+msgctxt "%d stands for column order number."
+msgid "Column %d Layout"
+msgstr "Layout colonna %d"
+
+#: includes/customizer-panel-footer.php:228
+#: includes/customizer-panel-footer.php:267
+#: includes/customizer-panel-header.php:48
+#: includes/customizer-panel-header.php:88
+#: includes/customizer-panel-header.php:340
+#: includes/customizer-panel-header.php:532
+#@ fl-automator
+msgid "Text"
+msgstr "Testo"
+
+#: includes/customizer-panel-footer.php:229
+#: includes/customizer-panel-footer.php:268
+#: includes/customizer-panel-header.php:52
+#: includes/customizer-panel-header.php:92
+#: includes/customizer-panel-header.php:341
+#@ fl-automator
+msgid "Social Icons"
+msgstr "Icone social"
+
+#: includes/customizer-panel-footer.php:230
+#: includes/customizer-panel-footer.php:269
+#: includes/customizer-panel-header.php:49
+#: includes/customizer-panel-header.php:89
+#: includes/customizer-panel-header.php:342
+#@ fl-automator
+msgid "Text &amp; Social Icons"
+msgstr "Testo &amp; icone social"
+
+#: includes/customizer-panel-footer.php:231
+#: includes/customizer-panel-footer.php:270
+#: includes/customizer-panel-header.php:50
+#: includes/customizer-panel-header.php:90
+#@ fl-automator
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/customizer-panel-footer.php:244
+#: includes/customizer-panel-footer.php:283
+#: includes/customizer-panel-header.php:65
+#: includes/customizer-panel-header.php:105
+#, php-format
+#@ fl-automator
+msgctxt "%d stands for column order number."
+msgid "Column %d Text"
+msgstr "Testo colonna %d"
+
+#: includes/customizer-panel-footer.php:292
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Footer Style"
+msgstr "Stile Footer"
+
+#: includes/customizer-panel-general.php:5
+#@ fl-automator
+msgctxt "Customizer panel title."
+msgid "General"
+msgstr "Generale"
+
+#: includes/customizer-panel-general.php:10
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/customizer-panel-general.php:20
+#@ fl-automator
+msgid "Width"
+msgstr "Larghezza"
+
+#: includes/customizer-panel-general.php:23
+#@ fl-automator
+msgid "Boxed"
+msgstr "In riquadro"
+
+#: includes/customizer-panel-general.php:24
+#@ fl-automator
+msgid "Full Width"
+msgstr "Larghezza piena"
+
+#: includes/customizer-panel-general.php:62
+#@ fl-automator
+msgid "Drop Shadow Color"
+msgstr "Colore ombra"
+
+#: includes/customizer-panel-general.php:70
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Background"
+msgstr "Sfondo"
+
+#: includes/customizer-panel-general.php:178
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Accent Color"
+msgstr "Colore di accento"
+
+#: includes/customizer-panel-general.php:188
+#: includes/customizer-panel-general.php:219
+#: includes/customizer-panel-general.php:375
+#@ fl-automator
+msgid "Color"
+msgstr "Colore"
+
+#: includes/customizer-panel-general.php:189
+#@ fl-automator
+msgid "The accent color will be used to color elements such as links and buttons as well as various elements in your theme."
+msgstr "Il colore di accento sarà usato per colorare elementi come pulsanti e collegamenti, oltre a vari elementi nel tuo tema."
+
+#: includes/customizer-panel-general.php:208
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Headings"
+msgstr "Titoli"
+
+#: includes/customizer-panel-general.php:231
+#: includes/customizer-panel-general.php:386
+#: includes/customizer-panel-header.php:581
+#: includes/customizer-panel-header.php:819
+#@ fl-automator
+msgid "Font Family"
+msgstr "Famiglia del carattere"
+
+#: includes/customizer-panel-general.php:244
+#: includes/customizer-panel-header.php:594
+#: includes/customizer-panel-header.php:832
+#@ fl-automator
+msgid "Font Weight"
+msgstr "Peso del carattere"
+
+#: includes/customizer-panel-general.php:258
+#: includes/customizer-panel-header.php:846
+#@ fl-automator
+msgid "Font Format"
+msgstr "Formato del carattere"
+
+#: includes/customizer-panel-general.php:261
+#: includes/customizer-panel-header.php:849
+#@ fl-automator
+msgid "Regular"
+msgstr "Normale"
+
+#: includes/customizer-panel-general.php:262
+#: includes/customizer-panel-header.php:850
+#@ fl-automator
+msgid "Capitalize"
+msgstr "Capitalizza"
+
+#: includes/customizer-panel-general.php:263
+#: includes/customizer-panel-header.php:851
+#@ fl-automator
+msgid "Uppercase"
+msgstr "Maiuscolo"
+
+#: includes/customizer-panel-general.php:264
+#: includes/customizer-panel-header.php:852
+#@ fl-automator
+msgid "Lowercase"
+msgstr "Minuscolo"
+
+#: includes/customizer-panel-general.php:365
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Text"
+msgstr "Testo"
+
+#: includes/customizer-panel-header.php:5
+#@ fl-automator
+msgctxt "Customizer panel title."
+msgid "Header"
+msgstr "Testata"
+
+#: includes/customizer-panel-header.php:10
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Top Bar Layout"
+msgstr "Layout barra superiore"
+
+#: includes/customizer-panel-header.php:51
+#: includes/customizer-panel-header.php:91
+#@ fl-automator
+msgid "Menu &amp; Social Icons"
+msgstr "Menu e icone sociali"
+
+#: includes/customizer-panel-header.php:114
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Top Bar Style"
+msgstr "Stile barra superiore"
+
+#: includes/customizer-panel-header.php:270
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Header Layout"
+msgstr "Layout Testata"
+
+#: includes/customizer-panel-header.php:284
+#@ fl-automator
+msgid "Nav Bottom"
+msgstr "Navigazione in basso"
+
+#: includes/customizer-panel-header.php:285
+#@ fl-automator
+msgid "Nav Right"
+msgstr "Navigazione a destra"
+
+#: includes/customizer-panel-header.php:286
+#@ fl-automator
+msgid "Nav Centered"
+msgstr "Navigazione centrata"
+
+#: includes/customizer-panel-header.php:311
+#@ fl-automator
+msgid "Fixed Header"
+msgstr "Testata fissa"
+
+#: includes/customizer-panel-header.php:312
+#@ fl-automator
+msgid "Show a fixed header as the page is scrolled."
+msgstr "Mostra testata fissa mentre si scorre la pagina."
+
+#: includes/customizer-panel-header.php:336
+#@ fl-automator
+msgid "Content Layout"
+msgstr "Layout contenuto"
+
+#: includes/customizer-panel-header.php:354
+#@ fl-automator
+msgid "Content Text"
+msgstr "Testo contenuto"
+
+#: includes/customizer-panel-header.php:363
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Header Style"
+msgstr "Stile testata"
+
+#: includes/customizer-panel-header.php:519
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Header Logo"
+msgstr "Logo testata"
+
+#: includes/customizer-panel-header.php:529
+#@ fl-automator
+msgid "Logo Type"
+msgstr "Tipo di logo"
+
+#: includes/customizer-panel-header.php:533
+#@ fl-automator
+msgid "Image"
+msgstr "Immagine"
+
+#: includes/customizer-panel-header.php:545
+#@ fl-automator
+msgid "Logo Image (Regular)"
+msgstr "Immagine del logo (Normale)"
+
+#: includes/customizer-panel-header.php:556
+#@ fl-automator
+msgid "Logo Image (Retina)"
+msgstr "Immagine del logo (Retina)"
+
+#: includes/customizer-panel-header.php:568
+#@ fl-automator
+msgid "Logo Text"
+msgstr "Testo logo"
+
+#: includes/customizer-panel-header.php:618
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Nav Layout"
+msgstr "Layout navigazione"
+
+#: includes/customizer-panel-header.php:641
+#@ fl-automator
+msgid "Nav Search Icon"
+msgstr "Icona ricerca navigazione"
+
+#: includes/customizer-panel-header.php:657
+#@ fl-automator
+msgid "Mobile Nav Toggle"
+msgstr "Pulsante apertura menu mobile"
+
+#: includes/customizer-panel-header.php:660
+#@ fl-automator
+msgid "Menu Button"
+msgstr "Pulsante Menu"
+
+#: includes/customizer-panel-header.php:661
+#@ fl-automator
+msgid "Hamburger Icon"
+msgstr "Icona menu"
+
+#: includes/customizer-panel-header.php:670
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Nav Style"
+msgstr "Stile navigazione"
+
+#: includes/customizer-panel-settings.php:5
+#@ fl-automator
+msgctxt "Customizer panel title."
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/customizer-panel-settings.php:10
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Social Links"
+msgstr "Collegamenti social"
+
+#: includes/customizer-panel-settings.php:20
+#@ fl-automator
+msgid "Social Icons Color"
+msgstr "Colore icone social"
+
+#: includes/customizer-panel-settings.php:23
+#@ fl-automator
+msgid "Branded"
+msgstr "Del marchio"
+
+#: includes/customizer-panel-settings.php:24
+#@ fl-automator
+msgid "Monochrome"
+msgstr "Monocromatico"
+
+#: includes/customizer-panel-settings.php:123
+#@ fl-automator
+msgid "RSS"
+msgstr "RSS"
+
+#: includes/customizer-panel-settings.php:129
+#@ fl-automator
+msgid "Email"
+msgstr "Email"
+
+#: includes/customizer-panel-settings.php:138
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Favicons"
+msgstr "Favicons"
+
+#: includes/customizer-panel-settings.php:148
+#@ fl-automator
+msgid "Favicon"
+msgstr "Favicon"
+
+#: includes/customizer-panel-settings.php:159
+#@ fl-automator
+msgid "Apple Touch Icon"
+msgstr "Apple Touch Icon"
+
+#: includes/customizer-panel-widgets.php:5
+#@ fl-automator
+msgctxt "Customizer panel title."
+msgid "Widgets"
+msgstr "Widgets"
+
+#: includes/nav-search.php:3 searchform.php:1
+#@ fl-automator
+msgctxt "Search form mouse hover title."
+msgid "Type and press Enter to search."
+msgstr "Scrivi e premi Invio per cercare."
+
+#: includes/nav-search.php:4 searchform.php:2
+#@ fl-automator
+msgctxt "Search form field placeholder text."
+msgid "Search"
+msgstr "Cerca"
+
+#: includes/post-bottom-meta.php:25
+#, php-format
+#@ fl-automator
+msgctxt "Post meta info: tags. Continuing of the sentence started with \"Posted in Category\"."
+msgid " and tagged %s"
+msgstr " con tag %s"
+
+#: classes/class-fl-theme.php:182
+#, php-format
+#@ fl-automator
+msgctxt "Sidebar title. %d stands for the order number of the auto-created sidebar, 4 in total."
+msgid "Footer Column %d"
+msgstr "Footer colonna %d"
+
+#: includes/customizer-panel-footer.php:75
+#: includes/customizer-panel-footer.php:350
+#: includes/customizer-panel-header.php:155
+#: includes/customizer-panel-header.php:359
+#: includes/customizer-panel-header.php:511
+#: includes/customizer-panel-header.php:831
+#: includes/customizer-panel-header.php:897
+#@ fl-automator
+msgctxt "Used for multiple Customizer options values. Use generalized form of the word when translating."
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: includes/customizer-panel-footer.php:76
+#: includes/customizer-panel-footer.php:351
+#: includes/customizer-panel-header.php:156
+#: includes/customizer-panel-header.php:512
+#: includes/customizer-panel-header.php:830
+#: includes/customizer-panel-header.php:898
+#@ fl-automator
+msgctxt "Used for multiple Customizer options values. Use generalized form of the word when translating."
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: includes/customizer-panel-content.php:31
+#@ fl-automator
+msgid "Background Opacity (%)"
+msgstr "Opacità dello sfondo (%)"
+
+#: includes/customizer-panel-content.php:167
+#: includes/customizer-panel-content.php:427
+#@ fl-automator
+msgctxt "Sidebar size."
+msgid "Custom"
+msgstr "Personalizzata"
+
+#: includes/customizer-panel-content.php:180
+#: includes/customizer-panel-content.php:440
+#@ fl-automator
+msgid "Custom Sidebar Width"
+msgstr "Larghezza sidebar personalizzata"
+
+#: includes/customizer-panel-content.php:253
+#@ fl-automator
+msgid "Comment Count"
+msgstr "Conteggio commenti"
+
+#: includes/customizer-panel-content.php:309
+#@ fl-automator
+msgid "Above Titles"
+msgstr "Sopra i titoli"
+
+#: includes/customizer-panel-content.php:334
+#@ fl-automator
+msgid "Above Title"
+msgstr "Sopra il titolo"
+
+#: includes/customizer-panel-content.php:506
+#@ fl-automator
+msgid "WooCommerce Styling"
+msgstr "Stili WooCommerce"
+
+#: includes/customizer-panel-content.php:507
+#@ fl-automator
+msgid "Enable or disable the theme’s custom WooCommerce styles."
+msgstr "Abilita o disabilita gli stili personalizzati del tema per WooCommerce."
+
+#: includes/customizer-panel-footer.php:55
+#: includes/customizer-panel-footer.php:330
+#: includes/customizer-panel-header.php:135
+#: includes/customizer-panel-header.php:463
+#: includes/customizer-panel-header.php:877
+#@ fl-automator
+msgid "Background Opacity"
+msgstr "Opacità dello sfondo"
+
+#: includes/customizer-panel-footer.php:481
+#@ fl-automator
+msgctxt "Customizer section title."
+msgid "Footer Parallax"
+msgstr "Parallasse del footer"
+
+#: includes/customizer-panel-footer.php:491
+#@ fl-automator
+msgid "Footer Parallax Effect"
+msgstr "Effetto di parallasse del footer"
+
+#: includes/customizer-panel-general.php:36
+#@ fl-automator
+msgid "Content Width"
+msgstr "Larghezza del contenuto"
+
+#: includes/customizer-panel-general.php:54
+#@ fl-automator
+msgid "Spacing"
+msgstr "Spaziatura"
+
+#: includes/customizer-panel-general.php:71
+#: includes/customizer-panel-header.php:480
+#@ fl-automator
+msgid "Drop Shadow Size"
+msgstr "Dimensione ombra"
+
+#: includes/customizer-panel-general.php:311
+#: includes/customizer-panel-general.php:373
+#: includes/customizer-panel-general.php:435
+#: includes/customizer-panel-general.php:497
+#: includes/customizer-panel-general.php:559
+#: includes/customizer-panel-general.php:621
+#, php-format
+#@ fl-automator
+msgctxt "%s stands for HTML heading tag."
+msgid "%s Font Size"
+msgstr "%s dimensione del carattere"
+
+#: includes/customizer-panel-general.php:329
+#: includes/customizer-panel-general.php:391
+#: includes/customizer-panel-general.php:453
+#: includes/customizer-panel-general.php:515
+#: includes/customizer-panel-general.php:577
+#: includes/customizer-panel-general.php:639
+#, php-format
+#@ fl-automator
+msgctxt "%s stands for HTML heading tag."
+msgid "%s Line Height"
+msgstr "%s altezza di linea"
+
+#: includes/customizer-panel-general.php:347
+#: includes/customizer-panel-general.php:409
+#: includes/customizer-panel-general.php:471
+#: includes/customizer-panel-general.php:533
+#: includes/customizer-panel-general.php:595
+#: includes/customizer-panel-general.php:657
+#, php-format
+#@ fl-automator
+msgctxt "%s stands for HTML heading tag."
+msgid "%s Letter Spacing"
+msgstr "%s spaziatura delle lettere"
+
+#: includes/customizer-panel-general.php:719
+#: includes/customizer-panel-header.php:732
+#: includes/customizer-panel-header.php:1068
+#@ fl-automator
+msgid "Font Size"
+msgstr "Dimensione del carattere"
+
+#: includes/customizer-panel-general.php:737
+#@ fl-automator
+msgid "Line Height"
+msgstr "Altezza di linea"
+
+#: includes/customizer-panel-header.php:303
+#@ fl-automator
+msgid "Nav Left"
+msgstr "Navigazione a sinistra"
+
+#: includes/customizer-panel-header.php:305
+#@ fl-automator
+msgid "Nav Centered + Inline Logo"
+msgstr "Navigazione centrata + logo in linea"
+
+#: includes/customizer-panel-header.php:306
+#@ fl-automator
+msgid "Nav Vertical Left"
+msgstr "Navigazione verticale a sinistra"
+
+#: includes/customizer-panel-header.php:307
+#@ fl-automator
+msgid "Nav Vertical Right"
+msgstr "Navigazione verticale a destra"
+
+#: includes/customizer-panel-header.php:320
+#@ fl-automator
+msgid "Vertical Nav Width"
+msgstr "Larghezza della navigazione verticale"
+
+#: includes/customizer-panel-header.php:338
+#@ fl-automator
+msgid "Padding"
+msgstr "Padding"
+
+#: includes/customizer-panel-header.php:360
+#@ fl-automator
+msgctxt "Used for multiple Customizer options values. Use generalized form of the word when translating."
+msgid "Fade In"
+msgstr "Assolvenza"
+
+#: includes/customizer-panel-header.php:361
+#@ fl-automator
+msgctxt "Used for multiple Customizer options values. Use generalized form of the word when translating."
+msgid "Shrink"
+msgstr "Riduci"
+
+#: includes/customizer-panel-header.php:362
+#@ fl-automator
+msgctxt "Used for multiple Customizer options values. Use generalized form of the word when translating."
+msgid "Fixed"
+msgstr "Fisso"
+
+#: includes/customizer-panel-header.php:374
+#@ fl-automator
+msgid "Hide Header Until Scroll"
+msgstr "Nascondi la testata fino allo scorrimento"
+
+#: includes/customizer-panel-header.php:390
+#@ fl-automator
+msgid "Scroll Distance"
+msgstr "Distanza dello scorrimento"
+
+#: includes/customizer-panel-header.php:750
+#@ fl-automator
+msgid "Logo Top Spacing"
+msgstr "Spaziatura in alto del logo"
+
+#: includes/customizer-panel-header.php:775
+#@ fl-automator
+msgid "Nav Item Spacing"
+msgstr "Spaziatura degli elementi di navigazione"
+
+#: includes/customizer-panel-header.php:793
+#@ fl-automator
+msgid "Nav Menu Top Spacing"
+msgstr "Spaziatura in alto del menù di navigazione"
+
+#: includes/customizer-panel-header.php:810
+#@ fl-automator
+msgid "Nav Item Align"
+msgstr "Allineamento degli elementi di navigazione"
+
+#: includes/customizer-panel-header.php:813
+#@ fl-automator
+msgid "Left"
+msgstr "Sinistra"
+
+#: includes/customizer-panel-header.php:815
+#@ fl-automator
+msgid "Right"
+msgstr "Destra"
+
+#: classes/class-fl-theme.php:182
+#, php-format
+#@ fl-automator
+msgctxt ""
+msgid "Footer Column %d"
+msgstr "Footer colonna %d"
+
+#: classes/class-fl-theme.php:1173
+#, php-format
+#@ fl-automator
+msgctxt ""
+msgid " and tagged %s"
+msgstr " con tag %s"
+
+#: includes/customizer-panel-footer.php:58
+#: includes/customizer-panel-footer.php:316
+#: includes/customizer-panel-header.php:138
+#: includes/customizer-panel-header.php:315
+#: includes/customizer-panel-header.php:387
+#: includes/customizer-panel-header.php:645
+#: includes/customizer-panel-header.php:694
+#@ fl-automator
+msgctxt ""
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: includes/customizer-panel-footer.php:59
+#: includes/customizer-panel-footer.php:317
+#: includes/customizer-panel-header.php:139
+#: includes/customizer-panel-header.php:316
+#: includes/customizer-panel-header.php:388
+#: includes/customizer-panel-header.php:644
+#: includes/customizer-panel-header.php:695
+#@ fl-automator
+msgctxt ""
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: includes/customizer-panel-general.php:37
+#@ fl-automator
+msgid "Spacing (px)"
+msgstr "Spaziatura (px)"
+
+#: includes/customizer-panel-general.php:50
+#@ fl-automator
+msgid "Drop Shadow Size (px)"
+msgstr "Dimensione ombra (px)"
+
+#: includes/customizer-panel-general.php:286
+#: includes/customizer-panel-general.php:300
+#: includes/customizer-panel-general.php:314
+#: includes/customizer-panel-general.php:328
+#: includes/customizer-panel-general.php:342
+#: includes/customizer-panel-general.php:356
+#, php-format
+#@ fl-automator
+msgctxt "%s stands for HTML heading tag."
+msgid "%s Font Size (px)"
+msgstr "Dimensione del carattere per %s (px)"
+
+#: includes/customizer-panel-general.php:399
+#: includes/customizer-panel-header.php:609
+#: includes/customizer-panel-header.php:866
+#@ fl-automator
+msgid "Font Size (px)"
+msgstr "Dimensione del carattere (px)"
+
+#: includes/customizer-panel-header.php:299
+#@ fl-automator
+msgid "Padding (px)"
+msgstr "Padding (px)"
+
+#: includes/customizer-panel-header.php:629
+#@ fl-automator
+msgid "Nav Item Spacing (px)"
+msgstr "Spazio elementi di navigazione (px)"
+

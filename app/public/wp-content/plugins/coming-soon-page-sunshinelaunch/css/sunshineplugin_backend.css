@@ -1,0 +1,320 @@
+th {
+	font-size: 15px;
+	padding: 5px;
+}
+
+td {
+	padding: 3px 5px;
+	min-width: 90px;
+}
+
+td input {
+	width: 500px;
+}
+
+table.ssp_table_secondary input {
+	width: 100px;
+}
+
+table.ssp_table_secondary input[type=radio], table.ssp_table_secondary input[type=checkbox] {
+	width: inherit;
+	margin-right: 5px;
+	margin-top: 1px;
+}
+
+td b {
+	font-weight: bold;
+}
+
+td div {
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+
+input[type=file],
+input[type=submit] {
+	display: none;
+}
+
+h1 {
+	margin-top: 1em;
+}
+
+#ssp_form h4 {
+	font-size: 2em;
+}
+
+.ssp_table_primary tr td:first-child,
+.ssp_table_secondary td:first-child  {
+	width: 160px;
+	font-weight: bold;
+	font-size: 15px;
+	vertical-align: top;
+	min-height: 40px;
+
+}
+
+.ssp_table_primary tr td:nth-child(2) {
+	width: 500px;
+}
+
+.ssp_table_primary textarea {
+	width: 100%;
+	height: 100px;
+}
+
+.ssp_h3 {
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+	border: 1px solid #c0c0c0;
+	display: inline-block;
+	background-color: #e4e4e4;
+	color: #575757;
+	font-weight: bold;
+	margin: 0 1px -1px;
+	font-size: 1.2em;
+	padding:0 11px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+	user-select: none;
+}
+
+.ssp_h3 sup {
+	font-weight: bold;
+	font-size: 9pt;
+}
+
+.ssp_h3:hover {
+	/*
+	background-color: #e7ab2d;
+	color: #fff; */
+	background-color: inherit;
+}
+
+.pfb_h3_active {
+	/*
+	background-color: #d39c29 !important;
+	color: #fff; */
+	background-color: inherit !important;
+	font-weight: bold;
+	color: #000;
+	border-bottom: 1px solid #F1F1F1;
+}
+
+#ssp_menu_wrapper {
+	border-bottom: 1px solid #c0c0c0;
+	display: block;
+}
+
+.ssp_backend_wrapper {
+	padding: 5px
+	5px
+	10px
+	5px;
+	width: 90%;
+	margin-bottom: -1px;
+}
+
+.ssp_notice {
+	padding-left: 5px;
+	padding-bottom: 5px;
+	display: inline-block;
+	margin-bottom: 10px;
+	font-weight: bold;
+	font-size: 15px;
+}
+.ssp_notice a {
+	text-decoration: none;
+}
+
+#ssp_extend_span {
+	margin: 1.25em 0;
+	display: inline-block;
+	padding-left: 3px;
+}
+
+.ssp_backend_wrapper aside {
+	color: #799235;
+	display: block;
+	margin-bottom: 3px;
+}
+.ssp_backend_inline {
+	display: inline-block;
+	width: 100%;
+	vertical-align: top;
+}
+
+#ssp_wm_img {
+	width: 25%;
+	border: 0px solid #ccc;
+	margin: 0px;
+	padding: 20px;
+	display: block;
+}
+
+#ssp_wm_example {
+	height: 100px;
+	margin-left: 10px;
+}
+
+.ssp_backend_info {
+	border-color: #FFBA00 !important;
+}
+
+#ssp_version,
+#ssp_version a,
+#ssp_version a:hover {
+	color: #c0c0c0;
+	text-decoration: none;
+	margin-right: 10px;
+}
+
+.ssp_preview_wrapper {
+	margin-bottom: 10px;
+	overflow: hidden;
+	height: 435px;
+}
+
+.ssp_preview {
+	overflow: hidden;
+	width: 1920px;
+	height: 870px;
+	-ms-zoom: 0.5;
+	-moz-transform: scale(0.5);
+	-moz-transform-origin: 0 0;
+	-o-transform: scale(0.5);
+	-o-transform-origin: 0 0;
+	-webkit-transform: scale(0.5);
+	-webkit-transform-origin: 0 0;
+}
+
+.ssp_desc {
+	font-style: italic;
+}
+
+.ssp_hf {
+	display: none;
+}
+
+span.ssp_template .ssp_overlay{
+	display: none;
+}
+span.ssp_template:hover .ssp_overlay{
+	display:block;
+	background-color: rgba(255,255,255,0.5);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	text-align: center;
+}
+.ssp_overlay:hover .button-primary{
+	margin-top: 120px;
+	font-size: 19px;
+	vertical-align: middle;
+	height: 50px;
+	line-height: 48px;
+	padding: 0 20px;
+}
+
+.button-primary.ssp_upgrade {
+	position: absolute;
+	right: 2em;
+	margin-top: 4em;
+	font-size: 1.5em;
+	height: 50px;
+	line-height: 48px;
+	padding: 0 20px;
+}
+
+.ssp_upload_btn,
+.ssp_submit_btn {
+	margin-bottom: 0px;
+	padding: 5px 17px;
+	background-color: #d39c29;
+	color: #fff
+}
+
+.ssp_upload_btn:hover,
+.ssp_submit_btn:hover {
+	background-color: #e7ab2d;
+}
+
+.ssp_upload_btn span,
+.ssp_submit_btn span {
+	margin-bottom: 0px;
+	padding-left: 0px;
+}
+
+.ssp_template {
+	margin: 3px;
+	border: 2px solid #c0c0c0;
+	line-height: 0;
+	display: inline-block;
+	position: relative;
+}
+
+.ssp_template:hover {
+	border: 2px solid #e7ab2d;
+}
+
+.ssp_template_active {
+	border: 2px solid #d39c29;
+}
+
+#ssp_saving {
+	display: none;
+	margin: 2em 0;
+	width: 100%;
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+@media screen and (max-width : 700px) {
+	.ssp_h3 {
+		margin: 4px 2px;
+	}
+
+	.pfb_h3_active {
+		border: 1px solid #c0c0c0;
+	}
+	#ssp_menu_wrapper {
+		border: none;
+	}
+}
+
+/* Vorschlag für Checkboxen */
+
+#ssp_active {
+	display: none;
+}
+
+#ssp_active_cb , #ssp_inactive_cb {
+	border: 1px solid #C0C0C0;
+	border-radius: 3px;
+	padding: 5px 8px 5px 5px;
+	background-color: #E4E4E4;
+}
+
+#ssp_active_cb .dashicons, #ssp_inactive_cb .dashicons {
+	vertical-align: middle
+}
+
+#ssp_active_cb:hover .dashicons{
+	color: #9c1313;
+}
+
+#ssp_inactive_cb:hover .dashicons {
+	color: #1c9c13;
+}
+
+#ssp_active_cb:hover , #ssp_inactive_cb:hover {
+	background-color: inherit;
+}

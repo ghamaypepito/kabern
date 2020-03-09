@@ -1,0 +1,1 @@
+[27-Dec-2019 02:35:57 CST6CDT] PHP Fatal error:  Call to undefined function plugin_basename() in /home/thumbai9/public_html/sites/kabernenterprises/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

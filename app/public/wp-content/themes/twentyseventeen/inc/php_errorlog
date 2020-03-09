@@ -1,0 +1,2 @@
+[22-May-2019 11:03:43 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/thumbai9/public_html/sites/kabernenterprises/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 16:43:30 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/thumbai9/public_html/sites/kabernenterprises/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

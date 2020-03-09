@@ -1,0 +1,213 @@
+body {
+	position: absolute;
+	width: 100%;
+	margin: 0;
+	min-height:100%;
+	overflow: auto;
+}
+
+html {
+	overflow: hidden;
+	background-size: cover;
+}
+
+div{
+	text-align: center;
+	margin-top: 25pt;
+}
+
+header {
+	text-align: center;
+	font-size: 18pt;
+}
+
+h1 {
+	font-size: 40pt;
+}
+h2 {
+	font-size: 35pt;
+}
+h3 {
+	font-size: 30pt;
+}
+h4 {
+	font-size: 27pt;
+}
+h5 {
+	font-size: 24pt;
+}
+h6 {
+	font-size: 20pt;
+}
+
+footer {
+	position: absolute;
+	bottom: 30pt;
+	text-align: center;
+	width: 100%;
+}
+
+a,
+a:hover,
+a:visited {
+	text-decoration: none;
+}
+
+#main {
+	margin: 0 auto 75pt;
+	padding: 0 1em;
+	max-width: 600px;
+}
+
+#ssp_headline {/* 
+	font-size: 35pt;
+	font-weight: bold; */
+}
+
+#ssp_social_media {
+	font-size: 26pt;
+}
+
+#ssp_social_media i {
+	padding-left: 0.25em;
+	padding-right: 0.25em;
+	cursor: pointer;
+}
+
+#ssp_share span, #ssp_email_btn {
+	padding: 15pt 15pt;
+	margin-left: 3pt;
+	margin-right: 3pt;
+	margin-bottom: 6pt;
+	display: inline-block;
+	cursor: pointer;
+}
+#ssp_share span,
+#ssp_share a,
+#ssp_share a:hover,
+#ssp_share a:visited {
+	font-size: 26pt;
+	width: 100pt;
+	color: #fff;
+}
+#ssp_share_fb {
+	background-color: #3a589c;
+}
+#ssp_share_tw {
+	background-color: #51abf1;
+}
+#ssp_share_gp {
+	background-color: #df4a32;
+}
+#ssp_email_btn {
+	width: 120pt;
+	font-size: 16pt;
+}
+
+#ssp_email_input {
+	font-size: 16pt;
+	padding: 15pt 15pt;
+	margin-right: 10pt;
+	border: 0;
+}
+
+#ssp_email_notification {
+	font-weight: bold;
+}
+
+#ssp_countdown {
+	font-size: 23pt;
+}
+
+#ssp_background_image {
+	opacity:0.4;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	margin: 0;
+	z-index: -1;
+}
+
+#ssp_wrapper_tile { 
+	margin: 2em auto 0;
+	width: 90%;
+	max-width: 600px;
+	position: absolute;
+	left:0;
+	right: 0;
+}
+#ssp_wrapper {
+	width: 100%;
+	position: absolute;
+	left:0;
+	right: 0;
+}
+
+#wpadminbar {
+	margin: 0;
+	display:none;
+}
+
+#ssp_show_wp_admin {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 32px;
+	height: 32px;
+	background-color: #222;
+	color: #ccc;
+	margin: 0;
+	padding-right: 6px;
+}
+
+#ssp_show_wp_admin  span{
+	cursor: pointer;
+	font-size: 17pt;
+	line-height: 32px;
+}
+			
+@media screen and (max-width : 720px) {
+	header {
+		margin-top: 0;
+	}
+	#ssp_headline {
+		margin-top: 0;
+	}
+	#ssp_wrapper_tile {
+		width: 100%;
+		margin: 0;
+		box-sizing: border-box;
+		width: 100%;
+		max-width: 720px;
+		padding: 0 1em;
+	}
+	
+	#ssp_email_input {
+		margin-right: 0.25em;
+	}
+}
+
+@media screen and (max-width : 600px) {
+	#ssp_email_input {
+		width: 100%;
+		margin-bottom: 0.5em;
+		max-width: 350px;
+		box-sizing: border-box;
+		margin-right:0;
+	}
+	#ssp_email_btn {
+		width: 100%;
+		max-width: 350px;
+		box-sizing: border-box;
+		margin: 0;
+	}
+	#ssp_social_media {
+		font-size: 21pt;
+	}
+}
+@media screen and (max-width : 400px) {
+	#ssp_countdown {
+		font-size: 20pt;
+	}
+
+}

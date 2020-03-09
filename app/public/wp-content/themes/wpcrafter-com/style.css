@@ -1,0 +1,66 @@
+/*
+Theme Name:     WPCrafter.com
+Description:    Site by WPCrafter.com
+Author:         WPCrafter.com
+Template:       TESSERACT
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.primary-button,
+.woocommerce a.button.primary-button,
+.woocommerce-page a.button.primary-button {
+    background-color: #5BBC2E;
+}
+
+.primary-button,
+.secondary-button,
+.woocommerce a.button.primary-button,
+.woocommerce-page a.button.primary-button,
+.woocommerce a.button.secondary-button,
+.woocommerce-page a.button.secondary-button {
+    color: #fff !important;
+    vertical-align: baseline;
+    }
+
+.primary-button:hover,
+.woocommerce a.button.primary-button:hover,
+.woocommerce-page a.button.primary-button:hover {
+    background-color: #B0E54F;
+}
+
+.secondary-button,
+.woocommerce a.button.secondary-button,
+.woocommerce-page a.button.secondary-button  {
+    background-color: transparent;
+    border: 1px solid #fff;
+}
+
+.secondary-button:hover,
+.woocommerce a.button.secondary-button:hover,
+.woocommerce-page a.button.secondary-button:hover {
+    background-color: #5BBC2E;
+}
+
+/* The Send button */
+#ninja_forms_field_5 {
+    background-color: #5BBC2E;
+}
+
+/* The Send button - hover - mouse over effect */
+#ninja_forms_field_5:hover{
+    background-color: #B0E54F;
+
+}
+
+.footer-style {
+  display: table-cell;
+  height: 100%;
+  position: relative;
+  right: 0;
+  text-align: right;
+  top: 0;
+  vertical-align: middle;
+  width: 13%;
+  z-index: 99;
+}

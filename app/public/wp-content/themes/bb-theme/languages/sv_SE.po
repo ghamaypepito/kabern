@@ -1,0 +1,1645 @@
+"Project-Id-Version: Beaver Builder Theme\n"
+"POT-Creation-Date: 2015-01-21 15:24+0100\n"
+"PO-Revision-Date: 2015-02-11 13:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9
+msgid "Sorry! That page doesn't seem to exist."
+msgstr "Ledsen! Sidan du letar efter finns inte."
+
+#: classes/class-fl-customizer-control.php:202
+msgid ""
+"Please install and activate the \"Customizer Export/Import\" plugin to "
+"proceed."
+msgstr ""
+"Vänligen installera och aktivera \"Customizer Export/Import\" plugin för att "
+"fortsätta"
+
+#: classes/class-fl-customizer-control.php:203
+msgctxt "...a plugin."
+msgid "Install &amp; Activate"
+msgstr "Installera &amp; aktivera"
+
+#: classes/class-fl-customizer.php:357
+msgctxt "Customizer section title. Theme design/style presets."
+msgid "Presets"
+msgstr "Grundutseende"
+
+#: classes/class-fl-customizer.php:377
+msgid "Start by selecting a preset for your theme."
+msgstr "Börja med att välja ett grundutseende för ditt tema"
+
+#: classes/class-fl-customizer.php:481
+msgctxt "Customizer section title."
+msgid "Export/Import"
+msgstr "Exportera/Importera"
+
+#: classes/class-fl-theme.php:104
+msgid "Top Bar Menu"
+msgstr "Toppmeny"
+
+#: classes/class-fl-theme.php:105
+msgid "Header Menu"
+msgstr "Sidhuvudmeny"
+
+#: classes/class-fl-theme.php:106
+msgid "Footer Menu"
+msgstr "Sidfotsmeny"
+
+#: classes/class-fl-theme.php:171
+msgid "Primary Sidebar"
+msgstr "Huvudsidofält"
+
+#: classes/class-fl-theme.php:182
+#, php-format
+msgctxt ""
+"Sidebar title. %d stands for the order number of the auto-created sidebar, 4 "
+"in total."
+msgid "Footer Column %d"
+msgstr "Sidfotskolumn %d"
+
+#: classes/class-fl-theme.php:194
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce sidofält"
+
+#: classes/class-fl-theme.php:441
+msgid "Choose Menu"
+msgstr "Välj meny"
+
+#: classes/class-fl-theme.php:441
+msgid "Home"
+msgstr "Hem"
+
+#: classes/class-fl-theme.php:655
+msgctxt "Mobile navigation toggle button text."
+msgid "Menu"
+msgstr "Meny"
+
+#: classes/class-fl-theme.php:922
+#, php-format
+msgctxt "Archive title: tag."
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Inlägg taggade &#8216;%s&#8217;"
+
+#: classes/class-fl-theme.php:926
+#, php-format
+msgctxt "Archive title: day."
+msgid "Archive for %s"
+msgstr "Arkiv för %s"
+
+#: classes/class-fl-theme.php:930
+#, php-format
+msgctxt "Archive title: month."
+msgid "Archive for %s"
+msgstr "Arkiv för %s"
+
+#: classes/class-fl-theme.php:934
+#, php-format
+msgctxt "Archive title: year."
+msgid "Archive for %s"
+msgstr "Arkiv för %s"
+
+#: classes/class-fl-theme.php:938
+#, php-format
+msgctxt "Archive title: author."
+msgid "Posts by %s"
+msgstr "Inlägg av %s"
+
+#: classes/class-fl-theme.php:942
+#, php-format
+msgctxt "Search results title."
+msgid "Search results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: classes/class-fl-theme.php:946
+msgctxt "Archive title: paged archive."
+msgid "Archives"
+msgstr "Arkiv"
+
+#: classes/class-fl-theme.php:973
+msgid "&laquo; Newer Posts"
+msgstr "&laquo; Nyare inlägg"
+
+#: classes/class-fl-theme.php:974
+msgid "Older Posts &raquo;"
+msgstr "Äldre inlägg &raquo;"
+
+#: comments.php:23
+#, php-format
+msgctxt "Comments list title."
+msgid "1 Comment"
+msgid_plural "%d Comments"
+msgstr[0] "1 Kommentar"
+msgstr[1] "%d Kommentarer"
+
+#: comments.php:29
+msgid "No Comments"
+msgstr "Inga kommentarer"
+
+#: comments.php:52
+msgctxt "Respond form title."
+msgid "Leave a Comment"
+msgstr "Lämna en kommentar"
+
+#: comments.php:59
+#, php-format
+msgctxt "Please, keep the HTML tags."
+msgid "You must be <a%s>logged in</a> to post a comment."
+msgstr "Du måste vara <a%s>inloggad</a> för att skriva en kommentar"
+
+#: comments.php:71
+#, php-format
+msgid "Logged in as %s."
+msgstr "Inloggad som %s."
+
+#: comments.php:71
+msgid "Log out of this account"
+msgstr "Logga ut från detta konto"
+
+#: comments.php:71
+msgid "Log out &raquo;"
+msgstr "Logga ut &raquo;"
+
+#: comments.php:75
+msgctxt "Comment form label: comment author name."
+msgid "Name"
+msgstr "Namn"
+
+#: comments.php:75 comments.php:79
+msgid " (required)"
+msgstr " (obligatorisk)"
+
+#: comments.php:79
+msgctxt "Comment form label: comment author email."
+msgid "Email (will not be published)"
+msgstr "E-post (kommer inte att publiceras)"
+
+#: comments.php:83
+msgctxt "Comment form label: comment author website."
+msgid "Website"
+msgstr "Hemsida"
+
+#: comments.php:89
+msgctxt "Comment form label: comment content."
+msgid "Comment"
+msgstr "Kommentar"
+
+#: comments.php:93
+msgid "Submit Comment"
+msgstr "Skicka kommentar"
+
+#: content-no-results.php:4
+msgid "Nothing Found"
+msgstr "Inget hittat"
+
+#: content-no-results.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Ledsen, ingenting matchade dina sökord. Vänligen försök igen med andra sökord"
+
+#: content-no-results.php:15
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+"Det verkar som att vi inte kan hitta det du letar efter. Prova att söka "
+"istället."
+
+#: content-page.php:6
+msgctxt "Edit page link text."
+msgid "Edit"
+msgstr "Redigera"
+
+#: content-page.php:15 content-single.php:48
+msgctxt "Text before page links on paginated post."
+msgid "Pages:"
+msgstr "Sidor: "
+
+#: content-single.php:19 content.php:23
+msgctxt "Edit post link text."
+msgid "Edit"
+msgstr "Redigera"
+
+#: includes/comment.php:10
+#, php-format
+msgid ""
+"<span class=\"comment-author-link\">%1$s</span> <span class=\"comment-date"
+"\">on %2$s at %3$s</span>"
+msgstr ""
+"<span class=\"comment-author-link\">%1$s</span> <span class=\"comment-date"
+"\">den %2$s kl %3$s</span>"
+
+#: includes/comment.php:17
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+#: includes/comment.php:20
+msgctxt "Comment edit link text."
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+#: includes/comment.php:26
+msgid "Reply"
+msgstr "Svara"
+
+#: includes/customizer-panel-code.php:5
+msgctxt "Customizer panel title."
+msgid "Code"
+msgstr "Kod"
+
+#: includes/customizer-panel-code.php:10
+msgctxt "Customizer section title."
+msgid "CSS Code"
+msgstr "CSS-kod"
+
+#: includes/customizer-panel-code.php:20
+msgid ""
+"CSS entered in the box below will be rendered within &lt;style&gt; tags."
+msgstr ""
+"CSS skriven i denna box nedan kommer att skrivas ut mellan &lt;style&gt;"
+"taggar"
+
+#: includes/customizer-panel-code.php:31
+msgctxt "Customizer section title."
+msgid "JavaScript Code"
+msgstr "JavaScript-kod"
+
+#: includes/customizer-panel-code.php:41
+msgid ""
+"JavaScript entered in the box below will be rendered within &lt;script&gt; "
+"tags."
+msgstr ""
+"JavaScript skriven i denna box nedan kommer att skrivas ut mellan &lt;"
+"script&gt;taggar"
+
+#: includes/customizer-panel-code.php:53
+msgctxt "Customizer section title."
+msgid "Head Code"
+msgstr "Head-kod"
+
+#: includes/customizer-panel-code.php:63
+msgid ""
+"Code entered in the box below will be rendered within the page &lt;head&gt; "
+"tag."
+msgstr ""
+"Kod skriven i denna box nedan kommer att skrivas ut mellan &lt;head&gt;taggen"
+
+#: includes/customizer-panel-code.php:74
+msgctxt "Customizer section title."
+msgid "Header Code"
+msgstr "Kod i sidhuvudet"
+
+#: includes/customizer-panel-code.php:84
+msgid ""
+"Code entered in the box below will be rendered directly after the opening "
+"&lt;body&gt; tag."
+msgstr ""
+"Kod skriven i denna box nedan kommer att skrivas ut efter den öppnande &lt;"
+"body&gt;taggen"
+
+#: includes/customizer-panel-code.php:95
+msgctxt "Customizer section title."
+msgid "Footer Code"
+msgstr "Kod i sidfoten"
+
+#: includes/customizer-panel-code.php:105
+msgid ""
+"Code entered in the box below will be rendered directly before the closing "
+"&lt;body&gt; tag."
+msgstr ""
+"Kod skriven i denna box nedan kommer att skrivas ut innan den stängande &lt;"
+"body&gt;taggen"
+
+#: includes/customizer-panel-content.php:5
+msgctxt "Customizer panel title."
+msgid "Content"
+msgstr "Innehåll"
+
+#: includes/customizer-panel-content.php:10
+msgctxt "Customizer section title."
+msgid "Content Background"
+msgstr "Bakgrund för innehållet"
+
+#: includes/customizer-panel-content.php:20
+#: includes/customizer-panel-footer.php:44
+#: includes/customizer-panel-footer.php:319
+#: includes/customizer-panel-general.php:122
+#: includes/customizer-panel-header.php:124
+#: includes/customizer-panel-header.php:452
+#: includes/customizer-panel-header.php:866
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: includes/customizer-panel-content.php:31
+#, fuzzy
+msgid "Background Opacity (%)"
+msgstr "Upprepning av bakgrund"
+
+#: includes/customizer-panel-content.php:48
+#: includes/customizer-panel-footer.php:88
+#: includes/customizer-panel-footer.php:363
+#: includes/customizer-panel-general.php:134
+#: includes/customizer-panel-header.php:168
+#: includes/customizer-panel-header.php:524
+#: includes/customizer-panel-header.php:910
+msgid "Background Image"
+msgstr "Bakgrundsbild"
+
+#: includes/customizer-panel-content.php:60
+#: includes/customizer-panel-footer.php:100
+#: includes/customizer-panel-footer.php:375
+#: includes/customizer-panel-general.php:146
+#: includes/customizer-panel-header.php:180
+#: includes/customizer-panel-header.php:536
+#: includes/customizer-panel-header.php:922
+msgid "Background Repeat"
+msgstr "Upprepning av bakgrund"
+
+#: includes/customizer-panel-content.php:63
+#: includes/customizer-panel-content.php:123
+#: includes/customizer-panel-footer.php:103
+#: includes/customizer-panel-footer.php:163
+#: includes/customizer-panel-footer.php:220
+#: includes/customizer-panel-footer.php:378
+#: includes/customizer-panel-footer.php:438
+#: includes/customizer-panel-general.php:149
+#: includes/customizer-panel-general.php:209
+#: includes/customizer-panel-header.php:23
+#: includes/customizer-panel-header.php:183
+#: includes/customizer-panel-header.php:243
+#: includes/customizer-panel-header.php:300
+#: includes/customizer-panel-header.php:418
+#: includes/customizer-panel-header.php:539
+#: includes/customizer-panel-header.php:599
+#: includes/customizer-panel-header.php:925
+#: includes/customizer-panel-header.php:985
+msgid "None"
+msgstr "Ingen"
+
+#: includes/customizer-panel-content.php:64
+#: includes/customizer-panel-footer.php:104
+#: includes/customizer-panel-footer.php:379
+#: includes/customizer-panel-general.php:150
+#: includes/customizer-panel-header.php:184
+#: includes/customizer-panel-header.php:540
+#: includes/customizer-panel-header.php:926
+msgid "Tile"
+msgstr "Mönstra"
+
+#: includes/customizer-panel-content.php:65
+#: includes/customizer-panel-footer.php:105
+#: includes/customizer-panel-footer.php:380
+#: includes/customizer-panel-general.php:151
+#: includes/customizer-panel-header.php:185
+#: includes/customizer-panel-header.php:541
+#: includes/customizer-panel-header.php:927
+msgid "Horizontal"
+msgstr "Horisontellt"
+
+#: includes/customizer-panel-content.php:66
+#: includes/customizer-panel-footer.php:106
+#: includes/customizer-panel-footer.php:381
+#: includes/customizer-panel-general.php:152
+#: includes/customizer-panel-header.php:186
+#: includes/customizer-panel-header.php:542
+#: includes/customizer-panel-header.php:928
+msgid "Vertical"
+msgstr "Vertikalt"
+
+#: includes/customizer-panel-content.php:79
+#: includes/customizer-panel-footer.php:119
+#: includes/customizer-panel-footer.php:394
+#: includes/customizer-panel-general.php:165
+#: includes/customizer-panel-header.php:199
+#: includes/customizer-panel-header.php:555
+#: includes/customizer-panel-header.php:941
+msgid "Background Position"
+msgstr "Bakgrundsposition"
+
+#: includes/customizer-panel-content.php:82
+#: includes/customizer-panel-footer.php:122
+#: includes/customizer-panel-footer.php:397
+#: includes/customizer-panel-general.php:168
+#: includes/customizer-panel-header.php:202
+#: includes/customizer-panel-header.php:558
+#: includes/customizer-panel-header.php:944
+msgid "Left Top"
+msgstr "Vänster Topp"
+
+#: includes/customizer-panel-content.php:83
+#: includes/customizer-panel-footer.php:123
+#: includes/customizer-panel-footer.php:398
+#: includes/customizer-panel-general.php:169
+#: includes/customizer-panel-header.php:203
+#: includes/customizer-panel-header.php:559
+#: includes/customizer-panel-header.php:945
+msgid "Left Center"
+msgstr "Vänster Mitten"
+
+#: includes/customizer-panel-content.php:84
+#: includes/customizer-panel-footer.php:124
+#: includes/customizer-panel-footer.php:399
+#: includes/customizer-panel-general.php:170
+#: includes/customizer-panel-header.php:204
+#: includes/customizer-panel-header.php:560
+#: includes/customizer-panel-header.php:946
+msgid "Left Bottom"
+msgstr "Vänster Botten"
+
+#: includes/customizer-panel-content.php:85
+#: includes/customizer-panel-footer.php:125
+#: includes/customizer-panel-footer.php:400
+#: includes/customizer-panel-general.php:171
+#: includes/customizer-panel-header.php:205
+#: includes/customizer-panel-header.php:561
+#: includes/customizer-panel-header.php:947
+msgid "Right Top"
+msgstr "Höger Topp"
+
+#: includes/customizer-panel-content.php:86
+#: includes/customizer-panel-footer.php:126
+#: includes/customizer-panel-footer.php:401
+#: includes/customizer-panel-general.php:172
+#: includes/customizer-panel-header.php:206
+#: includes/customizer-panel-header.php:562
+#: includes/customizer-panel-header.php:948
+msgid "Right Center"
+msgstr "Höger Mitten"
+
+#: includes/customizer-panel-content.php:87
+#: includes/customizer-panel-footer.php:127
+#: includes/customizer-panel-footer.php:402
+#: includes/customizer-panel-general.php:173
+#: includes/customizer-panel-header.php:207
+#: includes/customizer-panel-header.php:563
+#: includes/customizer-panel-header.php:949
+msgid "Right Bottom"
+msgstr "Höger Botten"
+
+#: includes/customizer-panel-content.php:88
+#: includes/customizer-panel-footer.php:128
+#: includes/customizer-panel-footer.php:403
+#: includes/customizer-panel-general.php:174
+#: includes/customizer-panel-header.php:208
+#: includes/customizer-panel-header.php:564
+#: includes/customizer-panel-header.php:950
+msgid "Center Top"
+msgstr "Mitten Topp"
+
+#: includes/customizer-panel-content.php:89
+#: includes/customizer-panel-footer.php:129
+#: includes/customizer-panel-footer.php:404
+#: includes/customizer-panel-general.php:175
+#: includes/customizer-panel-header.php:209
+#: includes/customizer-panel-header.php:565
+#: includes/customizer-panel-header.php:814
+#: includes/customizer-panel-header.php:951
+msgid "Center"
+msgstr "Mitten"
+
+#: includes/customizer-panel-content.php:90
+#: includes/customizer-panel-footer.php:130
+#: includes/customizer-panel-footer.php:405
+#: includes/customizer-panel-general.php:176
+#: includes/customizer-panel-header.php:210
+#: includes/customizer-panel-header.php:566
+#: includes/customizer-panel-header.php:952
+msgid "Center Bottom"
+msgstr "Mitten Botten"
+
+#: includes/customizer-panel-content.php:103
+#: includes/customizer-panel-footer.php:143
+#: includes/customizer-panel-footer.php:418
+#: includes/customizer-panel-general.php:189
+#: includes/customizer-panel-header.php:223
+#: includes/customizer-panel-header.php:579
+#: includes/customizer-panel-header.php:965
+msgid "Background Attachment"
+msgstr "Bakgrundsbeteende"
+
+#: includes/customizer-panel-content.php:106
+#: includes/customizer-panel-footer.php:146
+#: includes/customizer-panel-footer.php:421
+#: includes/customizer-panel-general.php:192
+#: includes/customizer-panel-header.php:226
+#: includes/customizer-panel-header.php:582
+#: includes/customizer-panel-header.php:968
+msgid "Scroll"
+msgstr "Skrolla"
+
+#: includes/customizer-panel-content.php:107
+#: includes/customizer-panel-footer.php:147
+#: includes/customizer-panel-footer.php:422
+#: includes/customizer-panel-general.php:193
+#: includes/customizer-panel-header.php:227
+#: includes/customizer-panel-header.php:583
+#: includes/customizer-panel-header.php:969
+msgid "Fixed"
+msgstr "Fixerad"
+
+#: includes/customizer-panel-content.php:120
+#: includes/customizer-panel-footer.php:160
+#: includes/customizer-panel-footer.php:435
+#: includes/customizer-panel-general.php:206
+#: includes/customizer-panel-header.php:240
+#: includes/customizer-panel-header.php:596
+#: includes/customizer-panel-header.php:982
+msgid "Background Scale"
+msgstr "Bakgrundsskalning"
+
+#: includes/customizer-panel-content.php:124
+#: includes/customizer-panel-footer.php:164
+#: includes/customizer-panel-footer.php:439
+#: includes/customizer-panel-general.php:210
+#: includes/customizer-panel-header.php:244
+#: includes/customizer-panel-header.php:600
+#: includes/customizer-panel-header.php:986
+msgid "Fit"
+msgstr "Passa"
+
+#: includes/customizer-panel-content.php:125
+#: includes/customizer-panel-footer.php:165
+#: includes/customizer-panel-footer.php:440
+#: includes/customizer-panel-general.php:211
+#: includes/customizer-panel-header.php:245
+#: includes/customizer-panel-header.php:601
+#: includes/customizer-panel-header.php:987
+msgid "Fill"
+msgstr "Fyll"
+
+#: includes/customizer-panel-content.php:134
+msgctxt "Customizer section title."
+msgid "Blog Layout"
+msgstr "Blogglayout"
+
+#: includes/customizer-panel-content.php:144
+#: includes/customizer-panel-content.php:403
+#, fuzzy
+msgid "Sidebar Position"
+msgstr "Sidofältets position i bloggen"
+
+#: includes/customizer-panel-content.php:147
+#: includes/customizer-panel-content.php:407
+msgid "Sidebar Right"
+msgstr "Sidofält höger"
+
+#: includes/customizer-panel-content.php:148
+#: includes/customizer-panel-content.php:408
+msgid "Sidebar Left"
+msgstr "Sidofält vänster"
+
+#: includes/customizer-panel-content.php:149
+#: includes/customizer-panel-content.php:409
+msgid "No Sidebar"
+msgstr "Inget sidofält"
+
+#: includes/customizer-panel-content.php:161
+#: includes/customizer-panel-content.php:421
+#, fuzzy
+msgid "Sidebar Size"
+msgstr "Sidofältets storlek i bloggen"
+
+#: includes/customizer-panel-content.php:164
+#: includes/customizer-panel-content.php:424
+msgctxt "Sidebar size."
+msgid "Large"
+msgstr "Stor"
+
+#: includes/customizer-panel-content.php:165
+#: includes/customizer-panel-content.php:425
+msgctxt "Sidebar size."
+msgid "Medium"
+msgstr "Medium"
+
+#: includes/customizer-panel-content.php:166
+#: includes/customizer-panel-content.php:426
+msgctxt "Sidebar size."
+msgid "Small"
+msgstr "Liten"
+
+#: includes/customizer-panel-content.php:167
+#: includes/customizer-panel-content.php:427
+#, fuzzy
+msgctxt "Sidebar size."
+msgid "Custom"
+msgstr "Anpassad"
+
+#: includes/customizer-panel-content.php:180
+#: includes/customizer-panel-content.php:440
+#, fuzzy
+msgid "Custom Sidebar Width"
+msgstr "Sidofält höger"
+
+#: includes/customizer-panel-content.php:197
+#: includes/customizer-panel-content.php:457
+#, fuzzy
+msgid "Sidebar Display"
+msgstr "Sidofältets visning i bloggen"
+
+#: includes/customizer-panel-content.php:200
+#: includes/customizer-panel-content.php:460
+msgid "Desktop Only"
+msgstr "Större skärmar enbart"
+
+#: includes/customizer-panel-content.php:201
+#: includes/customizer-panel-content.php:461
+msgid "Always"
+msgstr "Alltid"
+
+#: includes/customizer-panel-content.php:221
+msgid "Post Author"
+msgstr "Författare"
+
+#: includes/customizer-panel-content.php:224
+#: includes/customizer-panel-content.php:240
+#: includes/customizer-panel-content.php:256
+#: includes/customizer-panel-content.php:351
+#: includes/customizer-panel-content.php:367
+#: includes/customizer-panel-content.php:383
+#: includes/customizer-panel-content.php:485
+msgid "Visible"
+msgstr "Synlig"
+
+#: includes/customizer-panel-content.php:225
+#: includes/customizer-panel-content.php:241
+#: includes/customizer-panel-content.php:257
+#: includes/customizer-panel-content.php:308
+#: includes/customizer-panel-content.php:333
+#: includes/customizer-panel-content.php:352
+#: includes/customizer-panel-content.php:368
+#: includes/customizer-panel-content.php:384
+#: includes/customizer-panel-content.php:486
+msgid "Hidden"
+msgstr "Gömd"
+
+#: includes/customizer-panel-content.php:237
+msgid "Post Date"
+msgstr "Inläggsdatum"
+
+#: includes/customizer-panel-content.php:253
+#, fuzzy
+msgid "Comment Count"
+msgstr "Kommentar"
+
+#: includes/customizer-panel-content.php:266
+msgctxt "Customizer section title."
+msgid "Archive Layout"
+msgstr "Arkivlayout"
+
+#: includes/customizer-panel-content.php:276
+msgid "Show Full Text"
+msgstr "Visa hela texten"
+
+#: includes/customizer-panel-content.php:277
+msgid "Whether or not to show the full post. If no, the excerpt will be shown."
+msgstr ""
+"Om du vill visa hela innehållet i ett inlägg eller inte. Om nej så visas ett "
+"utdrag."
+
+#: includes/customizer-panel-content.php:280
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/customizer-panel-content.php:281
+msgid "No"
+msgstr "Nej"
+
+#: includes/customizer-panel-content.php:289
+msgid "Read More"
+msgstr "Läs mer"
+
+#: includes/customizer-panel-content.php:293
+msgid "\"Read More\" Text"
+msgstr "\"Read More\" Text"
+
+#: includes/customizer-panel-content.php:305
+#: includes/customizer-panel-content.php:330
+msgid "Featured Image"
+msgstr "Utvald bild"
+
+#: includes/customizer-panel-content.php:309
+#, fuzzy
+msgid "Above Titles"
+msgstr "Över inlägget"
+
+#: includes/customizer-panel-content.php:310
+msgid "Above Posts"
+msgstr "Över inlägget"
+
+#: includes/customizer-panel-content.php:311
+msgid "Beside Posts"
+msgstr "Bredvid inlägget"
+
+#: includes/customizer-panel-content.php:320
+msgctxt "Customizer section title."
+msgid "Post Layout"
+msgstr "Inläggslayout"
+
+#: includes/customizer-panel-content.php:334
+#, fuzzy
+msgid "Above Title"
+msgstr "Över inlägget"
+
+#: includes/customizer-panel-content.php:335
+msgid "Above Post"
+msgstr "Över inlägget"
+
+#: includes/customizer-panel-content.php:336
+msgid "Beside Post"
+msgstr "Bredvid inlägget"
+
+#: includes/customizer-panel-content.php:348
+msgid "Post Categories"
+msgstr "Inläggskategorier"
+
+#: includes/customizer-panel-content.php:364
+msgid "Post Tags"
+msgstr "Inläggsetiketter"
+
+#: includes/customizer-panel-content.php:380
+msgid "Prev/Next Post Links"
+msgstr "Föreg/Nästa-navigation"
+
+#: includes/customizer-panel-content.php:393
+msgctxt "Customizer section title."
+msgid "WooCommerce Layout"
+msgstr "WooCommerce layout"
+
+#: includes/customizer-panel-content.php:404
+msgid "The location of the WooCommerce sidebar."
+msgstr "Sidofältets position i WooCommerce"
+
+#: includes/customizer-panel-content.php:481
+msgid "\"Add to Cart\" Button"
+msgstr "\"Add to Cart\"knapp"
+
+#: includes/customizer-panel-content.php:482
+msgid "Show the \"Add to Cart\" button on product category pages?"
+msgstr "Visa \"Add to Cart\"knappen på produktkategorisidan?"
+
+#: includes/customizer-panel-content.php:506
+#, fuzzy
+msgid "WooCommerce Styling"
+msgstr "WooCommerce sidofält"
+
+#: includes/customizer-panel-content.php:507
+msgid "Enable or disable the themes custom WooCommerce styles."
+msgstr ""
+
+#: includes/customizer-panel-content.php:510
+#: includes/customizer-panel-content.php:533
+#: includes/customizer-panel-footer.php:495
+#: includes/customizer-panel-general.php:102
+#: includes/customizer-panel-header.php:378
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#: includes/customizer-panel-content.php:511
+#: includes/customizer-panel-content.php:534
+#: includes/customizer-panel-footer.php:23
+#: includes/customizer-panel-footer.php:494
+#: includes/customizer-panel-general.php:103
+#: includes/customizer-panel-header.php:377
+msgid "Disabled"
+msgstr "Avaktiverad"
+
+#: includes/customizer-panel-content.php:520
+msgctxt "Customizer section title."
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/customizer-panel-content.php:530
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/customizer-panel-footer.php:5
+msgctxt "Customizer panel title."
+msgid "Footer"
+msgstr "Sidfot"
+
+#: includes/customizer-panel-footer.php:10
+msgctxt "Customizer section title."
+msgid "Footer Widgets Layout"
+msgstr "Sidfotwidgets layout"
+
+#: includes/customizer-panel-footer.php:20
+msgid "Footer Widgets Display"
+msgstr "Visningsalternativ för Widgets i Sidfoten"
+
+#: includes/customizer-panel-footer.php:24
+msgid "All Pages"
+msgstr "Alla sidor"
+
+#: includes/customizer-panel-footer.php:25
+msgid "Homepage Only"
+msgstr "Startsidan enbart"
+
+#: includes/customizer-panel-footer.php:34
+#, fuzzy
+msgctxt "Customizer section title."
+msgid "Footer Widgets Style"
+msgstr "Sidfotwidgets layout"
+
+#: includes/customizer-panel-footer.php:55
+#: includes/customizer-panel-footer.php:330
+#: includes/customizer-panel-header.php:135
+#: includes/customizer-panel-header.php:463
+#: includes/customizer-panel-header.php:877
+#, fuzzy
+msgid "Background Opacity"
+msgstr "Upprepning av bakgrund"
+
+#: includes/customizer-panel-footer.php:72
+#: includes/customizer-panel-footer.php:347
+#: includes/customizer-panel-header.php:152
+#: includes/customizer-panel-header.php:508
+#: includes/customizer-panel-header.php:894
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Övertoning för sidhuvud"
+
+#: includes/customizer-panel-footer.php:75
+#: includes/customizer-panel-footer.php:350
+#: includes/customizer-panel-header.php:155
+#: includes/customizer-panel-header.php:359
+#: includes/customizer-panel-header.php:511
+#: includes/customizer-panel-header.php:831
+#: includes/customizer-panel-header.php:897
+msgctxt ""
+"Used for multiple Customizer options values. Use generalized form of the "
+"word when translating."
+msgid "Disabled"
+msgstr "Avaktiverad"
+
+#: includes/customizer-panel-footer.php:76
+#: includes/customizer-panel-footer.php:351
+#: includes/customizer-panel-header.php:156
+#: includes/customizer-panel-header.php:512
+#: includes/customizer-panel-header.php:830
+#: includes/customizer-panel-header.php:898
+msgctxt ""
+"Used for multiple Customizer options values. Use generalized form of the "
+"word when translating."
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#: includes/customizer-panel-footer.php:177
+#: includes/customizer-panel-footer.php:452
+#: includes/customizer-panel-header.php:257
+#: includes/customizer-panel-header.php:613
+msgid "Text Color"
+msgstr "Brödtextfärg"
+
+#: includes/customizer-panel-footer.php:188
+#: includes/customizer-panel-footer.php:463
+#: includes/customizer-panel-header.php:268
+#: includes/customizer-panel-header.php:624
+#: includes/customizer-panel-header.php:999
+#, fuzzy
+msgid "Link Color"
+msgstr "Rubriksfärg"
+
+#: includes/customizer-panel-footer.php:199
+#: includes/customizer-panel-footer.php:474
+#: includes/customizer-panel-general.php:242
+#: includes/customizer-panel-header.php:279
+#: includes/customizer-panel-header.php:635
+#: includes/customizer-panel-header.php:1010
+#, fuzzy
+msgid "Hover Color"
+msgstr "Rubriksfärg"
+
+#: includes/customizer-panel-footer.php:207
+msgctxt "Customizer section title."
+msgid "Footer Layout"
+msgstr "Sidfotslayout"
+
+#: includes/customizer-panel-footer.php:217
+#: includes/customizer-panel-header.php:20
+#: includes/customizer-panel-header.php:297
+#, fuzzy
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/customizer-panel-footer.php:221
+#: includes/customizer-panel-header.php:24
+msgid "1 Column"
+msgstr "1 Kolumn"
+
+#: includes/customizer-panel-footer.php:222
+#: includes/customizer-panel-header.php:25
+msgid "2 Columns"
+msgstr "2 Kolumner"
+
+#: includes/customizer-panel-footer.php:242
+#: includes/customizer-panel-footer.php:281
+#: includes/customizer-panel-header.php:45
+#: includes/customizer-panel-header.php:85
+#, fuzzy, php-format
+msgctxt "%d stands for column order number."
+msgid "Column %d Layout"
+msgstr "Sidfotskolumn %d layout"
+
+#: includes/customizer-panel-footer.php:245
+#: includes/customizer-panel-footer.php:284
+#: includes/customizer-panel-header.php:48
+#: includes/customizer-panel-header.php:88
+#: includes/customizer-panel-header.php:419
+#: includes/customizer-panel-header.php:656
+msgid "Text"
+msgstr "Text"
+
+#: includes/customizer-panel-footer.php:246
+#: includes/customizer-panel-footer.php:285
+#: includes/customizer-panel-header.php:52
+#: includes/customizer-panel-header.php:92
+#: includes/customizer-panel-header.php:420
+msgid "Social Icons"
+msgstr "Sociala medier"
+
+#: includes/customizer-panel-footer.php:247
+#: includes/customizer-panel-footer.php:286
+#: includes/customizer-panel-header.php:49
+#: includes/customizer-panel-header.php:89
+#: includes/customizer-panel-header.php:421
+msgid "Text &amp; Social Icons"
+msgstr "Text &amp; Sociala medier"
+
+#: includes/customizer-panel-footer.php:248
+#: includes/customizer-panel-footer.php:287
+#: includes/customizer-panel-header.php:50
+#: includes/customizer-panel-header.php:90
+msgid "Menu"
+msgstr "Meny"
+
+#: includes/customizer-panel-footer.php:261
+#: includes/customizer-panel-footer.php:300
+#: includes/customizer-panel-header.php:65
+#: includes/customizer-panel-header.php:105
+#, fuzzy, php-format
+msgctxt "%d stands for column order number."
+msgid "Column %d Text"
+msgstr "Text i sidfotskolumn %d"
+
+#: includes/customizer-panel-footer.php:309
+#, fuzzy
+msgctxt "Customizer section title."
+msgid "Footer Style"
+msgstr "Sidfotsmeny"
+
+#: includes/customizer-panel-footer.php:481
+msgctxt "Customizer section title."
+msgid "Footer Parallax"
+msgstr ""
+
+#: includes/customizer-panel-footer.php:491
+msgid "Footer Parallax Effect"
+msgstr ""
+
+#: includes/customizer-panel-general.php:5
+msgctxt "Customizer panel title."
+msgid "General"
+msgstr "Allmänt"
+
+#: includes/customizer-panel-general.php:10
+msgctxt "Customizer section title."
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/customizer-panel-general.php:20
+#, fuzzy
+msgid "Width"
+msgstr "Fullbredd"
+
+#: includes/customizer-panel-general.php:23
+msgid "Boxed"
+msgstr "Inboxad"
+
+#: includes/customizer-panel-general.php:24
+msgid "Full Width"
+msgstr "Fullbredd"
+
+#: includes/customizer-panel-general.php:36
+#, fuzzy
+msgid "Content Width"
+msgstr "Innehåll"
+
+#: includes/customizer-panel-general.php:54
+#, fuzzy
+msgid "Spacing"
+msgstr "Mellanrum"
+
+#: includes/customizer-panel-general.php:71
+#: includes/customizer-panel-header.php:480
+#, fuzzy
+msgid "Drop Shadow Size"
+msgstr "Skugga (px)"
+
+#: includes/customizer-panel-general.php:88
+#: includes/customizer-panel-header.php:497
+msgid "Drop Shadow Color"
+msgstr "Skuggans färg"
+
+#: includes/customizer-panel-general.php:99
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: includes/customizer-panel-general.php:112
+msgctxt "Customizer section title."
+msgid "Background"
+msgstr "Bakgrund"
+
+#: includes/customizer-panel-general.php:220
+msgctxt "Customizer section title."
+msgid "Accent Color"
+msgstr "Accentfärg"
+
+#: includes/customizer-panel-general.php:230
+#: includes/customizer-panel-general.php:261
+#: includes/customizer-panel-general.php:697
+#, fuzzy
+msgid "Color"
+msgstr "Brödtextfärg"
+
+#: includes/customizer-panel-general.php:231
+msgid ""
+"The accent color will be used to color elements such as links and buttons as "
+"well as various elements in your theme."
+msgstr ""
+"Accentfärgen används på element som t.ex länkar och knappar och diverse "
+"övriga element i temat."
+
+#: includes/customizer-panel-general.php:250
+msgctxt "Customizer section title."
+msgid "Headings"
+msgstr "Rubriker"
+
+#: includes/customizer-panel-general.php:273
+#: includes/customizer-panel-general.php:708
+#: includes/customizer-panel-header.php:705
+#: includes/customizer-panel-header.php:1022
+#, fuzzy
+msgid "Font Family"
+msgstr "Brödtexttypsnitt"
+
+#: includes/customizer-panel-general.php:286
+#: includes/customizer-panel-general.php:721
+#: includes/customizer-panel-header.php:718
+#: includes/customizer-panel-header.php:1035
+#, fuzzy
+msgid "Font Weight"
+msgstr "Typsnittstjocklek för logotyp"
+
+#: includes/customizer-panel-general.php:300
+#: includes/customizer-panel-header.php:1049
+#, fuzzy
+msgid "Font Format"
+msgstr "Rubrikformat"
+
+#: includes/customizer-panel-general.php:303
+#: includes/customizer-panel-header.php:1052
+msgid "Regular"
+msgstr "Normal"
+
+#: includes/customizer-panel-general.php:304
+#: includes/customizer-panel-header.php:1053
+msgid "Capitalize"
+msgstr "Kapitäler"
+
+#: includes/customizer-panel-general.php:305
+#: includes/customizer-panel-header.php:1054
+msgid "Uppercase"
+msgstr "Versaler"
+
+#: includes/customizer-panel-general.php:306
+#: includes/customizer-panel-header.php:1055
+msgid "Lowercase"
+msgstr "Gemener"
+
+#: includes/customizer-panel-general.php:327
+#: includes/customizer-panel-general.php:389
+#: includes/customizer-panel-general.php:451
+#: includes/customizer-panel-general.php:513
+#: includes/customizer-panel-general.php:575
+#: includes/customizer-panel-general.php:637
+#, fuzzy, php-format
+msgctxt "%s stands for HTML heading tag."
+msgid "%s Font Size"
+msgstr "%s Typsnittsstorlek (px)"
+
+#: includes/customizer-panel-general.php:345
+#: includes/customizer-panel-general.php:407
+#: includes/customizer-panel-general.php:469
+#: includes/customizer-panel-general.php:531
+#: includes/customizer-panel-general.php:593
+#: includes/customizer-panel-general.php:655
+#, php-format
+msgctxt "%s stands for HTML heading tag."
+msgid "%s Line Height"
+msgstr ""
+
+#: includes/customizer-panel-general.php:363
+#: includes/customizer-panel-general.php:425
+#: includes/customizer-panel-general.php:487
+#: includes/customizer-panel-general.php:549
+#: includes/customizer-panel-general.php:611
+#: includes/customizer-panel-general.php:673
+#, php-format
+msgctxt "%s stands for HTML heading tag."
+msgid "%s Letter Spacing"
+msgstr ""
+
+#: includes/customizer-panel-general.php:687
+msgctxt "Customizer section title."
+msgid "Text"
+msgstr "Text"
+
+#: includes/customizer-panel-general.php:735
+#: includes/customizer-panel-header.php:732
+#: includes/customizer-panel-header.php:1068
+#, fuzzy
+msgid "Font Size"
+msgstr "%s Typsnittsstorlek (px)"
+
+#: includes/customizer-panel-general.php:753
+msgid "Line Height"
+msgstr ""
+
+#: includes/customizer-panel-header.php:5
+msgctxt "Customizer panel title."
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: includes/customizer-panel-header.php:10
+msgctxt "Customizer section title."
+msgid "Top Bar Layout"
+msgstr "Toppmenyns layout"
+
+#: includes/customizer-panel-header.php:51
+#: includes/customizer-panel-header.php:91
+msgid "Menu &amp; Social Icons"
+msgstr "Meny &amp; Sociala medier"
+
+#: includes/customizer-panel-header.php:114
+#, fuzzy
+msgctxt "Customizer section title."
+msgid "Top Bar Style"
+msgstr "Toppmeny"
+
+#: includes/customizer-panel-header.php:287
+msgctxt "Customizer section title."
+msgid "Header Layout"
+msgstr "Sidhuvudlayout"
+
+#: includes/customizer-panel-header.php:301
+#, fuzzy
+msgid "Nav Bottom"
+msgstr "Meny botten"
+
+#: includes/customizer-panel-header.php:302
+#, fuzzy
+msgid "Nav Right"
+msgstr "Meny höger"
+
+#: includes/customizer-panel-header.php:303
+#, fuzzy
+msgid "Nav Left"
+msgstr "Sidofält vänster"
+
+#: includes/customizer-panel-header.php:304
+#, fuzzy
+msgid "Nav Centered"
+msgstr "Meny mitten"
+
+#: includes/customizer-panel-header.php:305
+msgid "Nav Centered + Inline Logo"
+msgstr ""
+
+#: includes/customizer-panel-header.php:306
+#, fuzzy
+msgid "Nav Vertical Left"
+msgstr "Vertikalt"
+
+#: includes/customizer-panel-header.php:307
+#, fuzzy
+msgid "Nav Vertical Right"
+msgstr "Meny höger"
+
+#: includes/customizer-panel-header.php:320
+#, fuzzy
+msgid "Vertical Nav Width"
+msgstr "Vertikalt"
+
+#: includes/customizer-panel-header.php:338
+#, fuzzy
+msgid "Padding"
+msgstr "Rubriker"
+
+#: includes/customizer-panel-header.php:355
+msgid "Fixed Header"
+msgstr "Fixerat sidhuvud"
+
+#: includes/customizer-panel-header.php:356
+msgid "Show a fixed header as the page is scrolled."
+msgstr "Visa sidhuvudet medan sidan skrollas"
+
+#: includes/customizer-panel-header.php:360
+msgctxt ""
+"Used for multiple Customizer options values. Use generalized form of the "
+"word when translating."
+msgid "Fade In"
+msgstr ""
+
+#: includes/customizer-panel-header.php:361
+msgctxt ""
+"Used for multiple Customizer options values. Use generalized form of the "
+"word when translating."
+msgid "Shrink"
+msgstr ""
+
+#: includes/customizer-panel-header.php:362
+#, fuzzy
+msgctxt ""
+"Used for multiple Customizer options values. Use generalized form of the "
+"word when translating."
+msgid "Fixed"
+msgstr "Fixerad"
+
+#: includes/customizer-panel-header.php:374
+msgid "Hide Header Until Scroll"
+msgstr ""
+
+#: includes/customizer-panel-header.php:390
+msgid "Scroll Distance"
+msgstr ""
+
+#: includes/customizer-panel-header.php:415
+#, fuzzy
+msgid "Content Layout"
+msgstr "Sidhuvudet innehållslayout"
+
+#: includes/customizer-panel-header.php:433
+#, fuzzy
+msgid "Content Text"
+msgstr "Textinnehåll för sidhuvudet"
+
+#: includes/customizer-panel-header.php:442
+#, fuzzy
+msgctxt "Customizer section title."
+msgid "Header Style"
+msgstr "Sidhuvudmeny"
+
+#: includes/customizer-panel-header.php:643
+msgctxt "Customizer section title."
+msgid "Header Logo"
+msgstr "Logotyp"
+
+#: includes/customizer-panel-header.php:653
+msgid "Logo Type"
+msgstr "Logotyp i text"
+
+#: includes/customizer-panel-header.php:657
+msgid "Image"
+msgstr "Bild"
+
+#: includes/customizer-panel-header.php:669
+msgid "Logo Image (Regular)"
+msgstr "Logotyp (vanlig)"
+
+#: includes/customizer-panel-header.php:680
+msgid "Logo Image (Retina)"
+msgstr "Logotyp (retina)"
+
+#: includes/customizer-panel-header.php:692
+msgid "Logo Text"
+msgstr "Logotyptext"
+
+#: includes/customizer-panel-header.php:750
+msgid "Logo Top Spacing"
+msgstr ""
+
+#: includes/customizer-panel-header.php:764
+#, fuzzy
+msgctxt "Customizer section title."
+msgid "Nav Layout"
+msgstr "Layout"
+
+#: includes/customizer-panel-header.php:775
+msgid "Nav Item Spacing"
+msgstr ""
+
+#: includes/customizer-panel-header.php:793
+msgid "Nav Menu Top Spacing"
+msgstr ""
+
+#: includes/customizer-panel-header.php:810
+msgid "Nav Item Align"
+msgstr ""
+
+#: includes/customizer-panel-header.php:813
+#, fuzzy
+msgid "Left"
+msgstr "Vänster Topp"
+
+#: includes/customizer-panel-header.php:815
+#, fuzzy
+msgid "Right"
+msgstr "Höger Topp"
+
+#: includes/customizer-panel-header.php:827
+#, fuzzy
+msgid "Nav Search Icon"
+msgstr "Sökikon i menyn"
+
+#: includes/customizer-panel-header.php:843
+msgid "Mobile Nav Toggle"
+msgstr ""
+
+#: includes/customizer-panel-header.php:846
+msgid "Menu Button"
+msgstr ""
+
+#: includes/customizer-panel-header.php:847
+msgid "Hamburger Icon"
+msgstr ""
+
+#: includes/customizer-panel-header.php:856
+msgctxt "Customizer section title."
+msgid "Nav Style"
+msgstr ""
+
+#: includes/customizer-panel-settings.php:5
+msgctxt "Customizer panel title."
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/customizer-panel-settings.php:10
+msgctxt "Customizer section title."
+msgid "Social Links"
+msgstr "Sociala medier"
+
+#: includes/customizer-panel-settings.php:20
+msgid "Social Icons Color"
+msgstr "Sociala medier - ikonfärg"
+
+#: includes/customizer-panel-settings.php:23
+msgid "Branded"
+msgstr "Märkt"
+
+#: includes/customizer-panel-settings.php:24
+msgid "Monochrome"
+msgstr "Monokrom"
+
+#: includes/customizer-panel-settings.php:123
+msgid "RSS"
+msgstr "RSS-flöde"
+
+#: includes/customizer-panel-settings.php:129
+msgid "Email"
+msgstr "E-post"
+
+#: includes/customizer-panel-settings.php:138
+msgctxt "Customizer section title."
+msgid "Favicons"
+msgstr "Favicon"
+
+#: includes/customizer-panel-settings.php:148
+msgid "Favicon"
+msgstr "Favicon"
+
+#: includes/customizer-panel-settings.php:159
+msgid "Apple Touch Icon"
+msgstr "Apple Touch Icon"
+
+#: includes/customizer-panel-widgets.php:5
+msgctxt "Customizer panel title."
+msgid "Widgets"
+msgstr "Widgets"
+
+#: includes/nav-search.php:3 searchform.php:1
+msgctxt "Search form mouse hover title."
+msgid "Type and press Enter to search."
+msgstr "Skriv och tryck enter för att söka."
+
+#: includes/nav-search.php:4 searchform.php:2
+msgctxt "Search form field placeholder text."
+msgid "Search"
+msgstr "Sök"
+
+#: includes/post-bottom-meta.php:20
+#, php-format
+msgctxt "Post meta info: category."
+msgid "Posted in %s"
+msgstr "Postat i %s"
+
+#: includes/post-bottom-meta.php:25
+#, php-format
+msgctxt ""
+"Post meta info: tags. Continuing of the sentence started with \"Posted in "
+"Category\"."
+msgid " and tagged %s"
+msgstr " och taggad med %s"
+
+#: includes/post-bottom-meta.php:27
+#, php-format
+msgctxt "Post meta info: tags."
+msgid "Tagged %s"
+msgstr "Taggad %s"
+
+#: includes/post-bottom-meta.php:36
+msgctxt "Comments popup link title."
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: includes/post-bottom-meta.php:36
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: includes/post-bottom-meta.php:36
+msgctxt "Comments popup link title."
+msgid "1 Comment"
+msgid_plural "% Comments"
+msgstr[0] "1 Kommentar"
+msgstr[1] "% Kommentarer"
+
+#: includes/post-top-meta.php:14
+#, php-format
+msgctxt "Post meta info: author."
+msgid "By %s"
+msgstr "Av %s"
+
+#: node_modules/grunt-pot/test/fixtures/some-file.php:3
+msgid "I'm a translatable string."
+msgstr ""
+
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:4
+msgid "Me too"
+msgstr ""
+
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:7
+#, php-format
+msgid "I have %d apple"
+msgid_plural "I have %d apples"
+msgstr[0] ""
+msgstr[1] ""
+
+#. / TRANSLATORS: This should be translated as a shorthand for YEAR-MONTH-DAY using 4, 2 and 2 digits.
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:16
+msgid "yyyy-mm-dd"
+msgstr ""
+
+#~ msgid "Credits"
+#~ msgstr "Credits"
+
+#~ msgid "Content Background Color"
+#~ msgstr "Bakgrundsfärg för innehållet"
+
+#~ msgid "WooCommerce Sidebar Position"
+#~ msgstr "Sidofältets position i WooCommerce"
+
+#~ msgid "WooCommerce Sidebar Size"
+#~ msgstr "Sidofältets storlek i WooCommerce"
+
+#~ msgid "WooCommerce Sidebar Display"
+#~ msgstr "Sidofältets visning i WooCommerce"
+
+#~ msgctxt "Customizer section title."
+#~ msgid "Footer Widgets Background"
+#~ msgstr "Bakgrund för widgetytan"
+
+#~ msgid "Footer Widgets Background Type"
+#~ msgstr "Bakgrundstyp för widgetytan"
+
+#~ msgid "Same as Content"
+#~ msgstr "Samma som innehållet"
+
+#~ msgid "Footer Widgets Background Color"
+#~ msgstr "Bakgrundsfärg för widgetytan"
+
+#~ msgid "Footer Layout"
+#~ msgstr "Sidfotslayout"
+
+#~ msgctxt "Customizer section title."
+#~ msgid "Footer Background"
+#~ msgstr "Bakgrund för sidfoten"
+
+#~ msgid "Footer Background Type"
+#~ msgstr "Bakgrundstyp för sidfoten"
+
+#~ msgid "Footer Background Color"
+#~ msgstr "Bakgrundsfärg för sidfoten"
+
+#~ msgid "Layout Width"
+#~ msgstr "Layoutbredd"
+
+#~ msgid "Accent Color"
+#~ msgstr "Accentfärg"
+
+#~ msgid "Heading Font Family"
+#~ msgstr "Rubriktypsnitt"
+
+#~ msgid "Heading Font Weight"
+#~ msgstr "Rubriktjocklek"
+
+#~ msgid "Text Font Size (px)"
+#~ msgstr "Brödtextstorlek"
+
+#~ msgid "Top Bar Layout"
+#~ msgstr "Toppmenyns layout"
+
+#~ msgctxt "%d stands for column order number."
+#~ msgid "Top Bar Column %d Layout"
+#~ msgstr "Toppmeny: layout för kolumn %d"
+
+#~ msgctxt "%d stands for column order number."
+#~ msgid "Top Bar Column %d Text"
+#~ msgstr "Toppmeny: Text i kolumn %d"
+
+#~ msgctxt "Customizer section title."
+#~ msgid "Top Bar Background"
+#~ msgstr "Bakgrund för toppmeny"
+
+#~ msgid "Top Bar Background Type"
+#~ msgstr "Bakgrundstyp för toppmeny"
+
+#~ msgid "Top Bar Background Color"
+#~ msgstr "Bakgrundsfärg för toppmeny"
+
+#~ msgid "Top Bar Background Gradient"
+#~ msgstr "Övertoning för toppmeyn"
+
+#~ msgid "Header Layout"
+#~ msgstr "Sidhuvudlayout"
+
+#~ msgid "Header Padding (px)"
+#~ msgstr "Luft i sidhuvudet (padding)"
+
+#~ msgctxt "Customizer section title."
+#~ msgid "Header Background"
+#~ msgstr "Bakgrund för sidhuvud"
+
+#~ msgid "Header Background Type"
+#~ msgstr "Bakgrundstyp för sidhuvud"
+
+#~ msgid "Header Background Color"
+#~ msgstr "Bakgrundsfärg för sidhuvud"
+
+#~ msgid "Logo Font Family"
+#~ msgstr "Typsnitt för logotyp"
+
+#~ msgid "Logo Font Size (px)"
+#~ msgstr "Typsnittsstorlek för logotyp"
+
+#~ msgctxt "Customizer section title."
+#~ msgid "Navigation Background"
+#~ msgstr "Bakgrund för meny"
+
+#~ msgid "Navigation Background Type"
+#~ msgstr "Bakgrundstyp för meny"
+
+#~ msgid "Navigation Background Color"
+#~ msgstr "Bakgrundsfärg för meny"
+
+#~ msgid "Navigation Background Gradient"
+#~ msgstr "Övertoning för meny"
+
+#~ msgctxt "Customizer section title."
+#~ msgid "Navigation Text"
+#~ msgstr "Menytext"
+
+#~ msgid "Navigation Text Type"
+#~ msgstr "Typsnitt för menytext"
+
+#~ msgctxt "Navigation text type."
+#~ msgid "Default"
+#~ msgstr "Ärv"
+
+#~ msgctxt "Navigation text type."
+#~ msgid "Custom"
+#~ msgstr "Egen"
+
+#~ msgid "Navigation Font Family"
+#~ msgstr "Typsnitt för meny"
+
+#~ msgid "Navigation Font Weight"
+#~ msgstr "Typsnittjocklek för meny"
+
+#~ msgid "Navigation Font Format"
+#~ msgstr "Typsnittformat för meny"
+
+#~ msgid "Navigation Font Size (px)"
+#~ msgstr "Typsnittsstorlek för meny"
